@@ -26,6 +26,7 @@ Regras técnicas do projeto.
 - Nunca use o opencode para fazer tarefas de um remix
 - Nunca confunda informar o monitor do projeto com fazer uma ask para o usuário (tem uma skill pra isso)
 - Nunca pergunte qualquer coisa ao usuário sem ter relatado a falta dos 3 arquivos descritos no plan.md para o project-monitor antes! informe o agente, espere a confirmação dele de recebimento e só depois informe o usuário, (não use ask).
+- Sempre opte por usar sub-agentes com "spawn_agent schema via tool_search", para tarefas medianamente complexas ou que envolveriam custo de api se fizesse via gateway, ao invés de fazer tudo sozinho, ou gastar com isso. Não use o monitor/opencode como subagente, ele só monitora o progresso.
 
 ## *Evite alterar qualquer instrução acima*
 
