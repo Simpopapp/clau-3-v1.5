@@ -1,0 +1,482 @@
+[
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-19",
+    "index": 0,
+    "text": "Understanding these patterns helps us question who writes history and why."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-20",
+    "index": 0,
+    "text": "The Roman Constitution was a complex mix of monarchy, aristocracy, and democracy."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-20",
+    "index": 0,
+    "text": "It evolved over time and laid the foundation for many modern systems of governance."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-21",
+    "index": 0,
+    "text": "Smiling can have a profound impact on both the person smiling and those around them."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-21",
+    "index": 0,
+    "text": "It’s associated with reduced stress, improved mood, and even a stronger immune system."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-21",
+    "index": 0,
+    "text": "A simple smile can spread positivity and build connections."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-22",
+    "index": 0,
+    "text": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the largest coral reef system in the world."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-22",
+    "index": 0,
+    "text": "It is home to thousands of marine species, but it faces threats from climate change and pollution."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-23",
+    "index": 0,
+    "text": "In the digital age, libraries are evolving from traditional book repositories into modern information hubs."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-23",
+    "index": 0,
+    "text": "They now offer online resources, digital lending, and even tech workshops to stay relevant and accessible."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-24",
+    "index": 0,
+    "text": "Maintaining a healthy work-life balance is essential for mental and physical well-being."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-24",
+    "index": 0,
+    "text": "Overworking can lead to burnout, while having personal time improves productivity, satisfaction, and relationships."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-26",
+    "index": 0,
+    "text": "Effective time management is key to academic and professional success."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-26",
+    "index": 0,
+    "text": "Prioritizing tasks, setting goals, and avoiding procrastination help individuals make the most of their time."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-27",
+    "index": 0,
+    "text": "The human brain is the most complex organ in the body."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-27",
+    "index": 0,
+    "text": "It controls thought, memory, emotion, and coordination."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-27",
+    "index": 0,
+    "text": "Neuroscientists are still discovering how different regions of the brain interact and function."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-28",
+    "index": 0,
+    "text": "Pollination is vital for plant reproduction."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-28",
+    "index": 0,
+    "text": "Bees, butterflies, and other insects transfer pollen from one flower to another, allowing plants to produce fruits and seeds."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-28",
+    "index": 0,
+    "text": "Pollinator decline poses a serious risk to agriculture."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-29",
+    "index": 0,
+    "text": "Music plays an important role in human culture and emotion."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-29",
+    "index": 0,
+    "text": "It can evoke powerful feelings, aid in relaxation, and even enhance memory."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-29",
+    "index": 0,
+    "text": "Many studies show that music therapy benefits mental health and cognitive development."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-30",
+    "index": 0,
+    "text": "Online learning has revolutionized education by making it more flexible and accessible."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-30",
+    "index": 0,
+    "text": "Students can now study at their own pace, from anywhere in the world, using digital tools and virtual classrooms."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-31",
+    "index": 0,
+    "text": "Volcanic eruptions occur when magma rises to the surface, releasing gas, ash, and lava."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-31",
+    "index": 0,
+    "text": "While destructive, they also create fertile land and contribute to the Earth’s geological processes."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-32",
+    "index": 0,
+    "text": "Artificial Intelligence, or AI, enables machines to mimic human intelligence."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-32",
+    "index": 0,
+    "text": "It powers applications from voice assistants to autonomous vehicles."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-32",
+    "index": 0,
+    "text": "While promising, it also raises ethical and societal questions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-33",
+    "index": 0,
+    "text": "Plastic pollution is one of the greatest environmental challenges today."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-33",
+    "index": 0,
+    "text": "Non-biodegradable plastics accumulate in oceans, harming marine life and entering the food chain."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-33",
+    "index": 0,
+    "text": "Reducing plastic use is critical."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-34",
+    "index": 0,
+    "text": "Sleep is essential for consolidating memory and learning."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-34",
+    "index": 0,
+    "text": "During sleep, the brain processes information gathered throughout the day."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-34",
+    "index": 0,
+    "text": "Lack of sleep can impair judgment, mood, and cognitive function."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-35",
+    "index": 0,
+    "text": "Renewable energy sources like solar, wind, and hydro are essential for a sustainable future."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-35",
+    "index": 0,
+    "text": "Unlike fossil fuels, they produce little or no greenhouse gases, making them environmentally friendly alternatives."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-36",
+    "index": 0,
+    "text": "Globally, one-third of all food produced is wasted."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-36",
+    "index": 0,
+    "text": "This not only leads to hunger but also wastes the resources used to grow, transport, and package food."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-36",
+    "index": 0,
+    "text": "Reducing waste helps fight climate change and promote food security."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-37",
+    "index": 0,
+    "text": "Social media connects billions of people worldwide but also influences behavior and mental health."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-37",
+    "index": 0,
+    "text": "While it facilitates communication, excessive use can lead to anxiety, misinformation, and reduced real-world interaction."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-38",
+    "index": 0,
+    "text": "Our solar system consists of the Sun, eight planets, moons, and various celestial bodies."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-38",
+    "index": 0,
+    "text": "It formed about 4.6 billion years ago from a giant cloud of gas and dust, eventually developing into the system we observe today."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-39",
+    "index": 0,
+    "text": "Immigration contributes to economic growth and cultural diversity."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-39",
+    "index": 0,
+    "text": "Migrants bring new skills, fill labor shortages, and enrich societies."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-39",
+    "index": 0,
+    "text": "However, successful integration depends on social policies and public attitudes."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-40",
+    "index": 0,
+    "text": "Despite historical barriers, women have made groundbreaking contributions to science."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-40",
+    "index": 0,
+    "text": "Encouraging more women to pursue STEM careers helps close the gender gap and enhances innovation."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-41",
+    "index": 0,
+    "text": "While smartphones increase connectivity, they can also distract from deep work."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-41",
+    "index": 0,
+    "text": "Constant notifications and multitasking reduce focus."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-41",
+    "index": 0,
+    "text": "Mindful smartphone use improves efficiency and mental well-being."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-42",
+    "index": 0,
+    "text": "Mars exploration has fascinated scientists for decades."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-42",
+    "index": 0,
+    "text": "Rovers like Perseverance are searching for signs of past life and testing technologies for future human missions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-42",
+    "index": 0,
+    "text": "Mars could one day become humanity’s second home."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-43",
+    "index": 0,
+    "text": "The Internet of Things connects everyday devices to the internet, allowing them to send and receive data."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-43",
+    "index": 0,
+    "text": "From smart refrigerators to connected cars, IoT is transforming homes, industries, and cities."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-44",
+    "index": 0,
+    "text": "Ocean currents regulate Earth’s climate by distributing heat across the globe."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-44",
+    "index": 0,
+    "text": "These underwater “rivers” affect weather patterns and marine life."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-44",
+    "index": 0,
+    "text": "Changes in currents can have serious environmental impacts."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-46",
+    "index": 0,
+    "text": "Cryptocurrency is a digital form of money that uses encryption for security."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-46",
+    "index": 0,
+    "text": "Bitcoin, the first cryptocurrency, was launched in 2009."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-46",
+    "index": 0,
+    "text": "While volatile, crypto is gaining popularity as an alternative asset."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-47",
+    "index": 0,
+    "text": "Species become endangered due to habitat loss, hunting, and climate change."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-47",
+    "index": 0,
+    "text": "Conservation efforts like protected areas and breeding programs aim to prevent extinction and preserve biodiversity."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-48",
+    "index": 0,
+    "text": "Water scarcity affects over two billion people worldwide."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-48",
+    "index": 0,
+    "text": "Causes include droughts, pollution, and overuse."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-48",
+    "index": 0,
+    "text": "Sustainable water management is essential for agriculture, industry, and daily life."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-49",
+    "index": 0,
+    "text": "Peer pressure influences how people behave, especially during adolescence."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-49",
+    "index": 0,
+    "text": "While it can encourage positive habits, it may also lead to risky behavior."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "storm-ra-49",
+    "index": 0,
+    "text": "Teaching self-confidence helps resist negative pressure."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-01",
+    "index": 0,
+    "text": "The city council has praised the project, noting its positive impact on community spirit and environmental awareness."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-01",
+    "index": 1,
+    "text": "The project, which started last month, has brought together people of all ages."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-01",
+    "index": 2,
+    "text": "This initiative has also helped to reduce neighborhood waste, as composting is a key component of the garden's ecosystem."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-01",
+    "index": 3,
+    "text": "A local community garden has recently been revitalized by volunteers."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-01",
+    "index": 4,
+    "text": "Residents now enjoy fresh vegetables and beautiful flowers grown in the garden."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-02",
+    "index": 0,
+    "text": "Over the summer, tablets and interactive whiteboards were installed across multiple schools."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-02",
+    "index": 1,
+    "text": "Schools in our district will start the new year with updated technology in classrooms."
+  },
+  {
+    "type": "reorder_paragraphs",
+    "qid": "goarno-ro-02",
+    "index": 2,
+    "text": "Teachers have received training on how to integrate these tools into their lessons."
+  }
+]

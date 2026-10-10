@@ -1,0 +1,482 @@
+[
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2571047c",
+    "index": 0,
+    "text": "Understanding the diverse functions of these organisms allows scientists to develop better treatments and biotechnological solutions for environmental and health problems."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-def8ff25",
+    "index": 0,
+    "text": "Historical linguistics tracks how languages shift and change over centuries due to migration, trade, and social contact between different groups."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-def8ff25",
+    "index": 0,
+    "text": "By comparing modern languages to ancient roots, linguists can map the movement of human populations across the globe."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-def8ff25",
+    "index": 0,
+    "text": "This work reveals the interconnectedness of cultures and the persistent legacy of human interaction throughout our collective history."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-ecfac508",
+    "index": 0,
+    "text": "Infectious disease epidemiology monitors the spread of pathogens through populations to implement effective control strategies during public health emergencies."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-ecfac508",
+    "index": 0,
+    "text": "Analysts use mathematical modeling to track transmission patterns and determine the best timing for vaccination and social distancing."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-ecfac508",
+    "index": 0,
+    "text": "These tools are indispensable for managing outbreaks and minimizing the loss of life during global health crises."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-b0d07f32",
+    "index": 0,
+    "text": "Geography of resource management addresses the challenges of distributing finite natural assets across an increasingly globalized and resource-hungry population."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-b0d07f32",
+    "index": 0,
+    "text": "Experts analyze how trade routes, environmental regulations, and geopolitical alliances influence the availability of water, timber, and minerals."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-b0d07f32",
+    "index": 0,
+    "text": "This field is key to creating a sustainable future where resources are shared equitably and preserved for future use."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-97b2b275",
+    "index": 0,
+    "text": "Information technology is transforming the way we perform research by allowing for the rapid analysis of massive datasets across disciplines."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-97b2b275",
+    "index": 0,
+    "text": "From tracking climate patterns to sequencing genomes, digital tools have become an essential part of the modern scientific process."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-97b2b275",
+    "index": 0,
+    "text": "Researchers must now combine traditional knowledge with computational skills to remain at the forefront of their respective academic fields."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c093b104",
+    "index": 0,
+    "text": "The ethics of artificial intelligence is an emerging area of study that focuses on the moral implications of automated decision-making systems."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c093b104",
+    "index": 0,
+    "text": "As machines take on more complex roles, ensuring they operate fairly and transparently is a major concern for developers."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c093b104",
+    "index": 0,
+    "text": "Philosophers and engineers are collaborating to establish guidelines that protect individual rights while fostering beneficial innovation in society."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-d278aff4",
+    "index": 0,
+    "text": "Earth science encompasses a broad range of disciplines that study the physical, chemical, and biological processes occurring on our planet's surface."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-d278aff4",
+    "index": 0,
+    "text": "By integrating data from geology, meteorology, and oceanography, scientists gain a holistic view of the Earth's systems."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-d278aff4",
+    "index": 0,
+    "text": "This comprehensive understanding is necessary for predicting natural events and mitigating the impact of human activities on the environment."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6054ef63",
+    "index": 0,
+    "text": "Literature reviews in academic research serve to summarize the existing state of knowledge while identifying gaps that future studies might address."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6054ef63",
+    "index": 0,
+    "text": "This process is essential for building a cumulative body of work that advances our understanding of complex topics over time."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6054ef63",
+    "index": 0,
+    "text": "By engaging with previous scholars, researchers ensure that their work remains rigorous, relevant, and well-contextualized."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-69be3758",
+    "index": 0,
+    "text": "Cognitive psychology explores the processes of memory, perception, and decision-making to explain how humans interact with their environment and others."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-69be3758",
+    "index": 0,
+    "text": "By conducting experiments, researchers can map out the cognitive biases that often lead to errors in judgment."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-69be3758",
+    "index": 0,
+    "text": "This field helps us understand human behavior and develop strategies to improve problem-solving skills in various real-world scenarios."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2cacaaf5",
+    "index": 0,
+    "text": "Geographic information systems, or GIS, allow researchers to map and analyze spatial data to uncover patterns in human and natural environments."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2cacaaf5",
+    "index": 0,
+    "text": "This technology is widely used in fields ranging from disaster management to urban planning and environmental conservation."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2cacaaf5",
+    "index": 0,
+    "text": "By visualizing data on maps, experts can communicate complex information effectively and make better-informed decisions about land usage."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a37928dc",
+    "index": 0,
+    "text": "Energy economics analyzes the markets for oil, gas, and electricity to understand how price fluctuations impact the global economy and policy."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a37928dc",
+    "index": 0,
+    "text": "Economists study the transition toward renewable sources to determine the most cost-effective path for reducing carbon emissions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a37928dc",
+    "index": 0,
+    "text": "This analysis is crucial for government leaders who must manage energy security while addressing the urgent goals of sustainability."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-970ffde4",
+    "index": 0,
+    "text": "The history of medical technology shows how the introduction of tools like x-rays and ventilators fundamentally changed patient outcomes in hospitals."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-970ffde4",
+    "index": 0,
+    "text": "Each advancement has provided deeper insights into the human body, allowing for more precise diagnoses and effective surgical interventions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-970ffde4",
+    "index": 0,
+    "text": "As technology evolves, medicine becomes increasingly focused on personalized care that addresses the unique needs of every patient."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-78dc65d9",
+    "index": 0,
+    "text": "Environmental engineering focuses on designing solutions to clean up polluted sites and prevent future contamination from industrial or domestic waste sources."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-78dc65d9",
+    "index": 0,
+    "text": "Engineers use biology and chemistry to develop systems that treat water and manage air emissions to protect public health."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-78dc65d9",
+    "index": 0,
+    "text": "These efforts are vital for maintaining the habitability of urban centers and surrounding natural ecosystems for all."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-60f04d91",
+    "index": 0,
+    "text": "Ocean currents function as a global conveyor belt, distributing thermal energy from equatorial regions toward the poles."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-60f04d91",
+    "index": 0,
+    "text": "This constant movement regulates regional climates and supports marine ecosystems by circulating essential nutrients throughout deep ocean basins."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-52f46c2a",
+    "index": 0,
+    "text": "Medieval trade routes relied heavily on established maritime networks that connected distant Mediterranean ports with northern European markets."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-52f46c2a",
+    "index": 0,
+    "text": "These economic corridors facilitated the exchange of both raw materials and cultural practices, effectively reshaping the socioeconomic landscape of the continent."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-53bfe974",
+    "index": 0,
+    "text": "Immunology examines how the human body identifies and neutralizes pathogens through a complex network of specialized cells."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-53bfe974",
+    "index": 0,
+    "text": "When an antigen is detected, the immune system triggers a coordinated response to ensure the host remains protected against infectious disease."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2d3df61d",
+    "index": 0,
+    "text": "Quantum mechanics challenges traditional perceptions of physical reality by suggesting that subatomic particles exist in multiple states simultaneously."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2d3df61d",
+    "index": 0,
+    "text": "Through the principle of superposition, scientists observe that measurement inherently dictates the final outcome of these microscopic interactions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-875bc5c7",
+    "index": 0,
+    "text": "Soil ecology investigates the intricate relationships between microorganisms and the physical structure of subterranean environments."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-875bc5c7",
+    "index": 0,
+    "text": "These biological processes are vital for nutrient cycling and help maintain the overall fertility required for sustained plant growth in natural habitats."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-be79b012",
+    "index": 0,
+    "text": "Monetary policy serves as a primary tool for central banks to control inflation and stabilize the national currency."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-be79b012",
+    "index": 0,
+    "text": "By adjusting interest rates, policymakers can effectively influence consumer spending patterns and manage the long-term growth of the broader economy."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-3b98f13e",
+    "index": 0,
+    "text": "Renaissance art reflects a profound shift toward humanistic values and the precise application of mathematical perspective."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-3b98f13e",
+    "index": 0,
+    "text": "Artists of this era utilized new techniques in shadow and light to create lifelike figures that emphasized the emotional depth of their subjects."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-46bd82c1",
+    "index": 0,
+    "text": "Genetic engineering involves the precise modification of an organism's DNA to introduce or enhance specific biological traits."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-46bd82c1",
+    "index": 0,
+    "text": "This advanced technology enables researchers to address chronic medical conditions while simultaneously improving agricultural resilience against various environmental stressors."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e10d5e58",
+    "index": 0,
+    "text": "Volcanology provides critical insights into the geological processes occurring beneath the Earth's surface through the study of magma movement."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e10d5e58",
+    "index": 0,
+    "text": "By monitoring volcanic activity, scientists can better predict eruptions and mitigate potential risks to surrounding human populations."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-8e7ac1da",
+    "index": 0,
+    "text": "Behavioral economics explores the psychological factors that influence individual decision-making processes within competitive market environments."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-8e7ac1da",
+    "index": 0,
+    "text": "Rather than assuming perfect rationality, this field analyzes how cognitive biases and social influences dictate the way people manage their financial resources."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7ff4731c",
+    "index": 0,
+    "text": "Classical music theory defines the structural rules governing harmonic progression and rhythmic complexity in orchestral compositions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7ff4731c",
+    "index": 0,
+    "text": "Mastery of these principles allows composers to organize sound in a way that creates deliberate tension and resolve for the listener."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e818949b",
+    "index": 0,
+    "text": "Nanotechnology operates at the molecular level to engineer materials with unique chemical and physical properties."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e818949b",
+    "index": 0,
+    "text": "By manipulating atoms, scientists can develop innovative solutions for high-performance electronics and advanced medical diagnostics that were previously thought impossible to achieve."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e0a4abc6",
+    "index": 0,
+    "text": "Public administration focuses on the systematic implementation of policies designed to support the effective management of government institutions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e0a4abc6",
+    "index": 0,
+    "text": "A successful framework ensures that public services remain accessible while promoting accountability and transparency across all levels of the administrative bureaucracy."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6b13690c",
+    "index": 0,
+    "text": "Astrophysics explores the life cycles of celestial bodies by analyzing radiation patterns emitted from distant stellar systems."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6b13690c",
+    "index": 0,
+    "text": "These observations allow researchers to reconstruct the history of the universe and understand the fundamental forces that govern gravitational interactions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f75b8705",
+    "index": 0,
+    "text": "Ethnobotany documents the historical relationship between indigenous communities and their local plant life for medicinal purposes."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f75b8705",
+    "index": 0,
+    "text": "Through careful analysis, researchers can identify traditional botanical practices that hold significant potential for modern pharmacological research and pharmaceutical drug development."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a3714c20",
+    "index": 0,
+    "text": "Deep sea exploration has revealed that thermal vents support diverse life forms thriving in extreme pressure and total darkness."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a3714c20",
+    "index": 0,
+    "text": "These organisms survive by converting chemical compounds into energy, demonstrating the remarkable adaptability of life in hostile planetary conditions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-4b729d2a",
+    "index": 0,
+    "text": "The Hanseatic League dominated Northern European trade for centuries, establishing a powerful confederation of merchant guilds."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-4b729d2a",
+    "index": 0,
+    "text": "This organization standardized commercial laws and created a secure environment for the movement of goods across fragmented political borders throughout the Baltic region."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7c7a43a3",
+    "index": 0,
+    "text": "Innate immunity represents the first line of defense against invading pathogens, providing an immediate and non-specific protective response."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7c7a43a3",
+    "index": 0,
+    "text": "This ancient biological mechanism works alongside adaptive immune cells to ensure the body can quickly recognize and isolate harmful biological threats."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0fda8685",
+    "index": 0,
+    "text": "Heisenberg's uncertainty principle remains a cornerstone of quantum theory, asserting that specific pairs of physical properties cannot be measured simultaneously with absolute precision."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0fda8685",
+    "index": 0,
+    "text": "This inherent ambiguity defines the behavior of atoms and impacts how we view the predictability of nature."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f38a9c98",
+    "index": 0,
+    "text": "Soil biodiversity plays a critical role in sequestering carbon, which helps mitigate the effects of atmospheric warming."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f38a9c98",
+    "index": 0,
+    "text": "By maintaining healthy ecosystems, researchers can enhance the ability of subterranean microbial communities to process organic matter and sustain ecological balance."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0cf8db42",
+    "index": 0,
+    "text": "Fiscal policy strategies are often debated by economists who prioritize different long-term objectives for national growth."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0cf8db42",
+    "index": 0,
+    "text": "While some argue for increased government investment, others suggest that reduced taxes provide the necessary stimulus for private sector innovation and development."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7615ed26",
+    "index": 0,
+    "text": "The artistic advancements of the Renaissance period were deeply connected to the patronage of wealthy merchant families in Italian city-states."
+  }
+]

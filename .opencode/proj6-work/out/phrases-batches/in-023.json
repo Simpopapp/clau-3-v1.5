@@ -1,0 +1,482 @@
+[
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-01",
+    "index": 0,
+    "text": "These color-coded symbols provide immediate feedback, ____ if a product is high in sugar, salt, or saturated fat."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-01",
+    "index": 0,
+    "text": "Although some food manufacturers claim that such systems ____ nutritional science, advocates argue that clear visual cues are necessary for ____ the global obesity crisis."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-02",
+    "index": 0,
+    "text": "Ocean acidification is a direct consequence of the atmosphere's rising carbon dioxide levels."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-02",
+    "index": 0,
+    "text": "As the ocean absorbs this gas, chemical reactions occur that reduce seawater pH, jeopardizing the ____ of marine life to build shells and skeletons."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-02",
+    "index": 0,
+    "text": "This impairment could trigger a ____ of food chains, affecting everything from microscopic plankton to large predators."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-02",
+    "index": 0,
+    "text": "Communities that ____ their livelihoods from the ocean are particularly vulnerable."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-02",
+    "index": 0,
+    "text": "Therefore, international cooperation is essential to ____ emissions and protect marine resources."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-03",
+    "index": 0,
+    "text": "Coral reefs are often called the rainforests of the sea due to their immense biodiversity."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-03",
+    "index": 0,
+    "text": "However, these ecosystems face a crisis known as bleaching, which occurs when corals are stressed by rising water temperatures."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-03",
+    "index": 0,
+    "text": "Consequently, they expel the algae in their tissues and turn white."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-03",
+    "index": 0,
+    "text": "While corals can survive, they become more ____ to disease."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-03",
+    "index": 0,
+    "text": "As global temperatures rise, bleaching events are becoming more ____, leaving reefs little time to ____."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-03",
+    "index": 0,
+    "text": "Without urgent action to ____ climate change, many reefs may soon disappear."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-04",
+    "index": 0,
+    "text": "Microplastics are ubiquitous in marine environments, originating from the fragmentation of larger plastic debris."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-04",
+    "index": 0,
+    "text": "As these materials degrade ____ exposure to sunlight and physical stress, they fracture into tiny particles."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-04",
+    "index": 0,
+    "text": "Consequently, they are readily ____ by diverse marine species that mistake them for food."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-04",
+    "index": 0,
+    "text": "This intake not only inflicts physical harm but also ____ the bioaccumulation of toxins."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-04",
+    "index": 0,
+    "text": "Ultimately, these pollutants move up the food web, ____ a significant threat to human health."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-05",
+    "index": 0,
+    "text": "The Antarctic ice sheet functions as a massive time capsule, preserving detailed records of the Earth's climatic past."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-05",
+    "index": 0,
+    "text": "By extracting long cylinders of ice, known as cores, scientists can ____ layers that date back hundreds of thousands of years."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-05",
+    "index": 0,
+    "text": "These samples contain trapped air bubbles that ____ the chemical composition of the atmosphere in previous eras."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-05",
+    "index": 0,
+    "text": "Analyzing these gases allows researchers to ____ a direct link between greenhouse gas levels and global temperatures."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-05",
+    "index": 0,
+    "text": "Such insights are critical for ____ future environmental changes."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-06",
+    "index": 0,
+    "text": "Climate change poses a severe challenge to global food security by fundamentally altering growing conditions."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-06",
+    "index": 0,
+    "text": "Rising temperatures and shifting precipitation patterns are expected to ____ crop yields in many vulnerable regions."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-06",
+    "index": 0,
+    "text": "While certain high-latitude areas might initially ____ from extended growing seasons, the increased frequency of extreme weather events could negate these potential gains."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-06",
+    "index": 0,
+    "text": "Consequently, agricultural sectors must ____ rapidly by introducing more resilient plant varieties."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-06",
+    "index": 0,
+    "text": "Without such measures, the risk of widespread hunger will likely ____ in the coming decades."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-07",
+    "index": 0,
+    "text": "Unlike traditional industrial robots that operate in isolation behind safety cages, collaborative robots generally work in close ____ with human employees."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-07",
+    "index": 0,
+    "text": "These machines possess sensitive features that halt motion the instant contact is detected, thereby ____ the need for heavy protective fencing."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-07",
+    "index": 0,
+    "text": "Consequently, they occupy less floor space and can be integrated into workflows with minimal disruption."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-07",
+    "index": 0,
+    "text": "Because they can be quickly reprogrammed, cobots are particularly ____ to high-mix production environments."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-07",
+    "index": 0,
+    "text": "This versatility represents a ____ departure from conventional automation, which typically requires rigid programming."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-08",
+    "index": 0,
+    "text": "Many nations are adopting front-of-pack labeling systems to address rising obesity rates."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-08",
+    "index": 0,
+    "text": "These visual indicators allow consumers to rapidly ____ the nutritional value of processed items without thoroughly reading complex charts."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-08",
+    "index": 0,
+    "text": "Evidence suggests that such transparency ____ manufacturers to reformulate products to achieve healthier ratings."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-08",
+    "index": 0,
+    "text": "Consequently, clear labeling not only empowers shoppers but also drives the industry to ____ levels of salt and sugar, ultimately helping to ____ the prevalence of chronic conditions."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-09",
+    "index": 0,
+    "text": "Scientists look to the polar regions to understand Earth's climatic history."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-09",
+    "index": 0,
+    "text": "In Antarctica, researchers drill deep into the ice sheet to ____ cylindrical samples known as ice cores."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-09",
+    "index": 0,
+    "text": "These frozen columns contain tiny bubbles of ancient air, ____ when snow fell and compacted centuries ago."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-09",
+    "index": 0,
+    "text": "By analyzing the chemical composition of this gas, climatologists can ____ past atmospheric conditions with remarkable precision."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-09",
+    "index": 0,
+    "text": "Such data provides vital ____ into how the planet responds to changing greenhouse gas levels."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-10",
+    "index": 0,
+    "text": "Despite the stated commitment of many organizations to diversity, traditional recruitment processes often hinder progress."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-10",
+    "index": 0,
+    "text": "Unconscious bias can easily ____ into decision-making when hiring managers review resumes containing personal details."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-10",
+    "index": 0,
+    "text": "To ____ this issue, some companies have adopted 'blind' recruitment practices, where identifying information is removed."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-10",
+    "index": 0,
+    "text": "This aims to ensure that candidates are judged solely on their skills and experience rather than ____ factors like gender or ethnicity."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-10",
+    "index": 0,
+    "text": "Although not a panacea, preliminary studies suggest this approach can significantly ____ the chances of underrepresented groups securing interviews."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-11",
+    "index": 0,
+    "text": "Collaborative robots, known as cobots, are designed to operate alongside humans rather than in ____ environments."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-11",
+    "index": 0,
+    "text": "Unlike traditional industrial robots, which often require heavy safety barriers to ____ accidents, cobots come equipped with advanced sensors that halt motion upon contact."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-11",
+    "index": 0,
+    "text": "This capability makes them ____ for tasks that demand human flexibility combined with machine precision."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-11",
+    "index": 0,
+    "text": "As a result, the role of the human worker is ____ from repetitive manual labor to oversight and management."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-12",
+    "index": 0,
+    "text": "Despite decades of advocacy, the gender pay gap remains a ____ feature of the global economy."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-12",
+    "index": 0,
+    "text": "To combat this, several nations have implemented mandatory reporting laws intended to ____ salary discrepancies between male and female employees."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-12",
+    "index": 0,
+    "text": "Proponents argue that such transparency forces companies to address inequalities they might otherwise ignore."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-12",
+    "index": 0,
+    "text": "However, simply publishing data does not automatically ____ to fair compensation."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-12",
+    "index": 0,
+    "text": "Real progress requires organisations to actively ____ the structural barriers that continue to hinder women's career progression."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-13",
+    "index": 0,
+    "text": "The world's oceans play a pivotal role in regulating the climate by absorbing a significant amount of carbon dioxide."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-13",
+    "index": 0,
+    "text": "While this buffers the atmosphere against warming, it leads to a chemical shift known as ocean acidification."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-13",
+    "index": 0,
+    "text": "This process reduces the supply of carbonate ions that marine organisms require to ____ their protective shells."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-13",
+    "index": 0,
+    "text": "Consequently, vital species are placed under severe ____, potentially ____ food webs and having profound ____ for global fisheries."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-14",
+    "index": 0,
+    "text": "The extraction of ice cores from Antarctica offers a direct record of the Earth's atmospheric history."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-14",
+    "index": 0,
+    "text": "As snow falls, it ____ in layers, eventually compressing into ice."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-14",
+    "index": 0,
+    "text": "During this process, tiny bubbles of air are trapped, effectively ____ samples of the ancient atmosphere."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-14",
+    "index": 0,
+    "text": "By analyzing these inclusions, scientists can establish a strong ____ between historical carbon dioxide levels and global temperatures."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-14",
+    "index": 0,
+    "text": "Such findings are ____ in modeling future climate scenarios and understanding the impact of human activity."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-15",
+    "index": 0,
+    "text": "Deep beneath the Antarctic ice sheet lies a hidden network of subglacial lakes."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-15",
+    "index": 0,
+    "text": "The largest of these, Lake Vostok, has been sealed off from the surface for millions of years."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-15",
+    "index": 0,
+    "text": "Scientists believe that despite the extreme pressure and total darkness, the lake may ____ unique microbial life forms."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-15",
+    "index": 0,
+    "text": "Exploring this environment requires technology that ____ contamination of the pristine waters."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-15",
+    "index": 0,
+    "text": "Successful research here could provide clues about life on other icy ____ in our solar system."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-15",
+    "index": 0,
+    "text": "This possibility makes the region particularly ____ to astrobiologists."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-16",
+    "index": 0,
+    "text": "The integration of artificial intelligence into industrial robotics is redefining the concept of automation."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-16",
+    "index": 0,
+    "text": "Unlike their predecessors, which simply repeated pre-programmed movements, AI-driven robots can ____ to changing environments in real-time."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-16",
+    "index": 0,
+    "text": "This capability is particularly valuable in unstructured settings where items may be placed ____."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-16",
+    "index": 0,
+    "text": "However, the deployment of such autonomous systems is not without its hurdles."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-16",
+    "index": 0,
+    "text": "Companies must invest heavily in training data, a process that can be both time-consuming and ____ expensive."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-16",
+    "index": 0,
+    "text": "Furthermore, relying on probabilistic algorithms introduces a degree of ____ that traditional engineers find unsettling."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-17",
+    "index": 0,
+    "text": "Rising levels of atmospheric carbon dioxide are not only warming the planet but also altering the chemistry of the oceans."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-17",
+    "index": 0,
+    "text": "When seawater absorbs CO2, it becomes more acidic, a phenomenon that ____ grave risks to marine biodiversity."
+  },
+  {
+    "type": "read_fib",
+    "qid": "goarno-rfib-17",
+    "index": 0,
+    "text": "This change is particularly ____ for organisms like coral and shellfish, which struggle to form their protective shells."
+  }
+]

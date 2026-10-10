@@ -1,0 +1,706 @@
+{
+  "goarno-rfib-01": {
+    "t": [
+      {
+        "l": "Navegar pelos corredores de um supermercado moderno pode ser uma tarefa assustadora para consumidores preocupados com a saúde.",
+        "c": "Escolher produtos saudáveis no supermercado pode ser um desafio para muita gente."
+      },
+      {
+        "l": "Em resposta, várias autoridades de saúde implementaram esquemas de rotulagem na frente da embalagem para ____ os compradores a fazerem melhores escolhas alimentares.",
+        "c": "Novos rótulos foram criados para ajudar o consumidor a escolher alimentos mais nutritivos."
+      },
+      {
+        "l": "Estes símbolos codificados por cores fornecem feedback imediato, ____ se um produto é rico em açúcar, sal ou gordura saturada.",
+        "c": "Símbolos coloridos indicam instantaneamente se o alimento tem alto teor de açúcar, sal ou gordura."
+      },
+      {
+        "l": "Embora alguns fabricantes de alimentos aleguem que tais sistemas ____ a ciência nutricional, defensores argumentam que pistas visuais claras são necessárias para ____ a crise global de obesidade.",
+        "c": "Apesar das críticas da indústria, defensores dizem que rótulos visuais ajudam a combater a obesidade global."
+      }
+    ]
+  },
+  "goarno-rfib-02": {
+    "t": [
+      {
+        "l": "A acidificação dos oceanos é uma consequência direta dos níveis crescentes de dióxido de carbono na atmosfera.",
+        "c": "O aumento do CO2 na atmosfera causa diretamente a acidificação das águas oceânicas."
+      },
+      {
+        "l": "À medida que o oceano absorve este gás, ocorrem reações químicas que reduzem o pH da água do mar, comprometendo a ____ da vida marinha de construir conchas e esqueletos.",
+        "c": "A absorção de CO2 reduz o pH do mar, prejudicando a formação de esqueletos e conchas marinhas."
+      },
+      {
+        "l": "Este comprometimento poderia desencadear um ____ das cadeias alimentares, afetando tudo, desde plâncton microscópico até grandes predadores.",
+        "c": "A falta de cálcio na vida marinha pode desestabilizar toda a cadeia alimentar oceânica."
+      },
+      {
+        "l": "Comunidades que ____ seus meios de subsistência do oceano são particularmente vulneráveis.",
+        "c": "Povos que dependem do mar para viver são os mais afetados pelas mudanças químicas na água."
+      },
+      {
+        "l": "Portanto, a cooperação internacional é essencial para ____ emissões e proteger os recursos marinhos.",
+        "c": "A ajuda entre países é vital para diminuir a poluição e salvar a vida no mar."
+      }
+    ]
+  },
+  "goarno-rfib-03": {
+    "t": [
+      {
+        "l": "Os recifes de coral são frequentemente chamados de florestas tropicais do mar devido à sua imensa biodiversidade.",
+        "c": "Pela sua rica variedade de vida, os recifes são comparados às florestas tropicais."
+      },
+      {
+        "l": "No entanto, estes ecossistemas enfrentam uma crise conhecida como branqueamento, que ocorre quando os corais são estressados pelo aumento das temperaturas da água.",
+        "c": "O calor excessivo da água causa o branqueamento, ameaçando a sobrevivência dos recifes."
+      },
+      {
+        "l": "Consequentemente, eles expelem as algas em seus tecidos e tornam-se brancos.",
+        "c": "Sob estresse térmico, os corais perdem suas algas coloridas e ficam esbranquiçados."
+      },
+      {
+        "l": "Embora os corais possam sobreviver, eles tornam-se mais ____ a doenças.",
+        "c": "Corais branqueados ainda vivem, mas ficam muito mais suscetíveis a infecções."
+      },
+      {
+        "l": "À medida que as temperaturas globais aumentam, os eventos de branqueamento estão se tornando mais ____, deixando aos recifes pouco tempo para ____.",
+        "c": "O calor frequente causa branqueamentos repetidos, impedindo a recuperação natural dos corais."
+      },
+      {
+        "l": "Sem uma ação urgente para ____ a mudança climática, muitos recifes podem desaparecer em breve.",
+        "c": "Se o aquecimento global não for freado, corais no mundo todo correm risco de extinção."
+      }
+    ]
+  },
+  "goarno-rfib-04": {
+    "t": [
+      {
+        "l": "Os microplásticos são onipresentes em ambientes marinhos, originando-se da fragmentação de detritos plásticos maiores.",
+        "c": "Pequenas partículas de plástico, vindas de lixo maior, estão espalhadas por todo o oceano."
+      },
+      {
+        "l": "À medida que estes materiais se degradam ____ à exposição à luz solar e ao estresse físico, eles se fraturam em partículas minúsculas.",
+        "c": "O sol e o movimento do mar quebram o plástico em pedaços cada vez menores."
+      },
+      {
+        "l": "Consequentemente, eles são prontamente ____ por diversas espécies marinhas que os confundem com comida.",
+        "c": "Animais marinhos acabam comendo essas partículas por acharem que são alimento."
+      },
+      {
+        "l": "Esta ingestão não só inflige danos físicos, mas também ____ a bioacumulação de toxinas.",
+        "c": "Comer plástico machuca os animais e faz com que venenos se acumulem em seus corpos."
+      },
+      {
+        "l": "Por fim, estes poluentes sobem na teia alimentar, ____ uma ameaça significativa à saúde humana.",
+        "c": "O plástico comido por peixes acaba chegando aos seres humanos através da alimentação."
+      }
+    ]
+  },
+  "goarno-rfib-05": {
+    "t": [
+      {
+        "l": "A camada de gelo da Antártida funciona como uma enorme cápsula do tempo, preservando registros detalhados do passado climático da Terra.",
+        "c": "O gelo antártico guarda informações preciosas sobre o clima do planeta há milhares de anos."
+      },
+      {
+        "l": "Ao extrair longos cilindros de gelo, conhecidos como testemunhos, os cientistas podem ____ camadas que datam de centenas de milhares de anos atrás.",
+        "c": "Cientistas usam cilindros de gelo para estudar camadas climáticas muito antigas."
+      },
+      {
+        "l": "Estas amostras contêm bolhas de ar presas que ____ a composição química da atmosfera em eras anteriores.",
+        "c": "Bolhas de ar no gelo revelam como era a atmosfera no passado distante."
+      },
+      {
+        "l": "Analisar estes gases permite aos pesquisadores ____ uma ligação direta entre os níveis de gases de efeito estufa e as temperaturas globais.",
+        "c": "O estudo desses gases prova a relação entre poluição atmosférica e aquecimento global."
+      },
+      {
+        "l": "Tais percepções são críticas para ____ futuras mudanças ambientais.",
+        "c": "Esses dados são fundamentais para prever como o clima vai mudar no futuro."
+      }
+    ]
+  },
+  "goarno-rfib-06": {
+    "t": [
+      {
+        "l": "A mudança climática representa um desafio severo à segurança alimentar global ao alterar fundamentalmente as condições de cultivo.",
+        "c": "O aquecimento global ameaça a produção de comida ao mudar o clima onde as plantas crescem."
+      },
+      {
+        "l": "Espera-se que o aumento das temperaturas e a mudança nos padrões de precipitação ____ o rendimento das colheitas em muitas regiões vulneráveis.",
+        "c": "O calor e a falta de chuva devem diminuir a produção agrícola em locais mais pobres."
+      },
+      {
+        "l": "Embora certas áreas de alta latitude possam inicialmente ____ de estações de cultivo prolongadas, a maior frequência de eventos climáticos extremos poderia anular esses ganhos potenciais.",
+        "c": "Regiões frias podem plantar mais agora, mas tempestades extremas podem destruir tudo."
+      },
+      {
+        "l": "Consequentemente, os setores agrícolas devem ____ rapidamente, introduzindo variedades de plantas mais resilientes.",
+        "c": "A agricultura precisa se adaptar logo, usando sementes que aguentem climas difíceis."
+      },
+      {
+        "l": "Sem tais medidas, o risco de fome generalizada provavelmente ____ nas próximas décadas.",
+        "c": "Se nada for feito, a fome no mundo pode aumentar muito nos próximos anos."
+      }
+    ]
+  },
+  "goarno-rfib-07": {
+    "t": [
+      {
+        "l": "Diferente dos robôs industriais tradicionais que operam isolados atrás de gaiolas de segurança, os robôs colaborativos geralmente trabalham em estreita ____ com funcionários humanos.",
+        "c": "Ao contrário dos robôs antigos, os colaborativos trabalham lado a lado com as pessoas."
+      },
+      {
+        "l": "Estas máquinas possuem recursos sensíveis que interrompem o movimento no instante em que o contato é detectado, ____ assim a necessidade de cercas de proteção pesadas.",
+        "c": "Esses robôs param ao menor toque, dispensando o uso de grades de segurança na fábrica."
+      },
+      {
+        "l": "Consequentemente, eles ocupam menos espaço no chão e podem ser integrados aos fluxos de trabalho com o mínimo de interrupção.",
+        "c": "Eles são compactos e fáceis de incluir na produção sem causar bagunça."
+      },
+      {
+        "l": "Por poderem ser reprogramados rapidamente, os cobots são particularmente ____ a ambientes de produção de alta mistura.",
+        "c": "A facilidade de mudar a tarefa torna esses robôs ideais para fábricas que fazem muitos produtos diferentes."
+      },
+      {
+        "l": "Esta versatilidade representa uma ____ partida da automação convencional, que normalmente requer programação rígida.",
+        "c": "Essa flexibilidade é uma grande mudança em relação aos robôs rígidos do passado."
+      }
+    ]
+  },
+  "goarno-rfib-08": {
+    "t": [
+      {
+        "l": "Muitas nações estão adotando sistemas de rotulagem na frente da embalagem para enfrentar as crescentes taxas de obesidade.",
+        "c": "Países usam selos na frente dos alimentos para ajudar as pessoas a comerem melhor."
+      },
+      {
+        "l": "Estes indicadores visuais permitem que os consumidores ____ rapidamente o valor nutricional de itens processados sem ler minuciosamente gráficos complexos.",
+        "c": "Com esses selos, dá para saber se o alimento é saudável sem ler letras miúdas."
+      },
+      {
+        "l": "Evidências sugerem que tal transparência ____ os fabricantes a reformular produtos para obter classificações mais saudáveis.",
+        "c": "Rótulos claros forçam empresas a fazerem comidas com menos ingredientes ruins."
+      },
+      {
+        "l": "Consequentemente, a rotulagem clara não apenas capacita os compradores, mas também impulsiona a indústria a ____ os níveis de sal e açúcar, ajudando, em última análise, a ____ a prevalência de condições crônicas.",
+        "c": "Sinalizar bem os alimentos ajuda as pessoas a escolherem melhor e reduz doenças no longo prazo."
+      }
+    ]
+  },
+  "goarno-rfib-09": {
+    "t": [
+      {
+        "l": "Os cientistas olham para as regiões polares para entender a história climática da Terra.",
+        "c": "Estudar os polos ajuda a entender como o clima do planeta mudou ao longo do tempo."
+      },
+      {
+        "l": "Na Antártida, pesquisadores perfuram profundamente a camada de gelo para ____ amostras cilíndricas conhecidas como testemunhos de gelo.",
+        "c": "Cientistas tiram tubos de gelo do fundo da Antártida para pesquisar o passado."
+      },
+      {
+        "l": "Estas colunas congeladas contêm minúsculas bolhas de ar antigo, ____ quando a neve caiu e se compactou séculos atrás.",
+        "c": "O gelo guarda ar de séculos atrás, preso quando a neve virou gelo sólido."
+      },
+      {
+        "l": "Ao analisar a composição química deste gás, os climatologistas podem ____ as condições atmosféricas passadas com precisão notável.",
+        "c": "O ar no gelo permite reconstruir o clima de antigamente com muita exatidão."
+      },
+      {
+        "l": "Tais dados fornecem vital ____ sobre como o planeta responde às mudanças nos níveis de gases de efeito estufa.",
+        "c": "Essas informações mostram como a Terra reage ao aumento da poluição no ar."
+      }
+    ]
+  },
+  "goarno-rfib-10": {
+    "t": [
+      {
+        "l": "Apesar do compromisso declarado de muitas organizações com a diversidade, os processos tradicionais de recrutamento frequentemente dificultam o progresso.",
+        "c": "Muitas empresas dizem querer diversidade, mas seus métodos de contratação atrapalham."
+      },
+      {
+        "l": "O viés inconsciente pode facilmente ____ na tomada de decisões quando os gerentes de contratação revisam currículos contendo detalhes pessoais.",
+        "c": "Preconceitos escondidos afetam a escolha de candidatos quando se vê dados pessoais no currículo."
+      },
+      {
+        "l": "Para ____ esta questão, algumas empresas adotaram práticas de recrutamento 'às cegas', onde informações identificadoras são removidas.",
+        "c": "Algumas empresas escondem nomes e fotos para evitar preconceitos na contratação."
+      },
+      {
+        "l": "Isso visa garantir que os candidatos sejam julgados exclusivamente por suas habilidades e experiência, em vez de fatores ____ como gênero ou etnia.",
+        "c": "A ideia é focar no talento, ignorando raça ou gênero na hora de escolher quem contratar."
+      },
+      {
+        "l": "Embora não seja uma panaceia, estudos preliminares sugerem que esta abordagem pode ____ significativamente as chances de grupos sub-representados conseguirem entrevistas.",
+        "c": "O currículo cego ajuda minorias a terem mais chances de serem chamadas para entrevistas."
+      }
+    ]
+  },
+  "goarno-rfib-11": {
+    "t": [
+      {
+        "l": "Os robôs colaborativos, conhecidos como cobots, são projetados para operar ao lado de humanos, em vez de em ambientes ____.",
+        "c": "Cobots são feitos para trabalhar junto com pessoas, não isolados em áreas fechadas."
+      },
+      {
+        "l": "Ao contrário dos robôs industriais tradicionais, que muitas vezes exigem barreiras de segurança pesadas para ____ acidentes, os cobots vêm equipados com sensores avançados que interrompem o movimento ao contato.",
+        "c": "Diferente dos robôs perigosos, estes param sozinhos se tocarem em alguém."
+      },
+      {
+        "l": "Esta capacidade os torna ____ para tarefas que exigem a flexibilidade humana combinada com a precisão da máquina.",
+        "c": "Eles são perfeitos para trabalhos que unem o jeito humano com o rigor da máquina."
+      },
+      {
+        "l": "Como resultado, o papel do trabalhador humano está ____ do trabalho manual repetitivo para a supervisão e gestão.",
+        "c": "Com esses robôs, o humano deixa de fazer tarefas chatas e passa a gerenciar a máquina."
+      }
+    ]
+  },
+  "goarno-rfib-12": {
+    "t": [
+      {
+        "l": "Apesar de décadas de defesa, a diferença salarial entre gêneros continua sendo uma característica ____ da economia global.",
+        "c": "Mesmo após anos de luta, mulheres ainda ganham menos que homens no mundo todo."
+      },
+      {
+        "l": "Para combater isso, várias nações implementaram leis de relatórios obrigatórios destinadas a ____ as discrepâncias salariais entre funcionários do sexo masculino e feminino.",
+        "c": "Alguns países obrigam empresas a mostrar os salários para expor a desigualdade entre homens e mulheres."
+      },
+      {
+        "l": "Os proponentes argumentam que tal transparência força as empresas a abordar as desigualdades que, de outra forma, poderiam ignorar.",
+        "c": "Revelar os salários obriga os chefes a consertar injustiças que fingiam não ver."
+      },
+      {
+        "l": "No entanto, simplesmente publicar dados não ____ automaticamente em compensação justa.",
+        "c": "Só mostrar os números não garante que o salário de todos será igualado logo."
+      },
+      {
+        "l": "O progresso real exige que as organizações ativamente ____ as barreiras estruturais que continuam a dificultar a progressão na carreira das mulheres.",
+        "c": "Para mudar de verdade, as empresas precisam remover o que impede as mulheres de subir de cargo."
+      }
+    ]
+  },
+  "goarno-rfib-13": {
+    "t": [
+      {
+        "l": "Os oceanos do mundo desempenham um papel fundamental na regulação do clima ao absorver uma quantidade significativa de dióxido de carbono.",
+        "c": "Os mares ajudam a controlar a temperatura da Terra guardando parte da poluição do ar."
+      },
+      {
+        "l": "Embora isso proteja a atmosfera contra o aquecimento, leva a uma mudança química conhecida como acidificação dos oceanos.",
+        "c": "Ao absorver CO2, o mar esquenta menos o ar, mas sua água fica mais ácida e perigosa."
+      },
+      {
+        "l": "Este processo reduz a oferta de íons carbonato que os organismos marinhos requerem para ____ suas conchas protetoras.",
+        "c": "A água ácida dificulta que animais marinhos criem suas conchas e carapaças."
+      },
+      {
+        "l": "Consequentemente, espécies vitais são colocadas sob severo ____, potencialmente ____ as teias alimentares e tendo profundas ____ para a pesca global.",
+        "c": "A acidez do mar ameaça espécies e pode destruir a pesca no mundo todo."
+      }
+    ]
+  },
+  "goarno-rfib-14": {
+    "t": [
+      {
+        "l": "A extração de testemunhos de gelo da Antártida oferece um registro direto da história atmosférica da Terra.",
+        "c": "Cilindros de gelo da Antártida são arquivos naturais do ar do nosso planeta no passado."
+      },
+      {
+        "l": "À medida que a neve cai, ela se ____ em camadas, comprimindo-se eventualmente em gelo.",
+        "c": "A neve acumulada ao longo dos anos vira gelo duro e guarda a história do clima."
+      },
+      {
+        "l": "Durante este processo, minúsculas bolhas de ar são presas, efetivamente ____ amostras da atmosfera antiga.",
+        "c": "Bolhas de ar ficam presas no gelo, funcionando como frascos de ar do passado."
+      },
+      {
+        "l": "Ao analisar essas inclusões, os cientistas podem estabelecer uma forte ____ entre os níveis históricos de dióxido de carbono e as temperaturas globais.",
+        "c": "O estudo dessas bolhas prova que mais CO2 sempre significou mais calor na Terra."
+      },
+      {
+        "l": "Tais descobertas são ____ na modelagem de cenários climáticos futuros e na compreensão do impacto da atividade humana.",
+        "c": "Esses dados são cruciais para entendermos como nossas ações afetarão o clima no futuro."
+      }
+    ]
+  },
+  "goarno-rfib-15": {
+    "t": [
+      {
+        "l": "Profundamente abaixo da camada de gelo da Antártida encontra-se uma rede oculta de lagos subglaciais.",
+        "c": "Existem lagos escondidos debaixo do gelo da Antártida que ninguém vê."
+      },
+      {
+        "l": "O maior destes, o Lago Vostok, tem sido isolado da superfície por milhões de anos.",
+        "c": "O Lago Vostok está fechado e sem contato com o mundo exterior há milhões de anos."
+      },
+      {
+        "l": "Os cientistas acreditam que, apesar da pressão extrema e da escuridão total, o lago pode ____ formas de vida microbiana únicas.",
+        "c": "Mesmo no escuro e sob pressão, pode haver seres vivos microscópicos únicos nesse lago."
+      },
+      {
+        "l": "Explorar este ambiente requer tecnologia que ____ a contaminação das águas cristalinas.",
+        "c": "Para pesquisar esses lagos, é preciso cuidado para não sujar a água puríssima com bactérias de fora."
+      },
+      {
+        "l": "Pesquisas bem-sucedidas aqui poderiam fornecer pistas sobre a vida em outros ____ gelados em nosso sistema solar.",
+        "c": "O que descobrirmos na Antártida pode ajudar a achar vida em outros planetas gelados."
+      },
+      {
+        "l": "Esta possibilidade torna a região particularmente ____ para astrobiólogos.",
+        "c": "Cientistas que buscam vida no espaço têm muito interesse nesses lagos gelados."
+      }
+    ]
+  },
+  "goarno-rfib-16": {
+    "t": [
+      {
+        "l": "A integração da inteligência artificial na robótica industrial está redefinindo o conceito de automação.",
+        "c": "A IA está mudando o que entendemos por máquinas automáticas nas fábricas."
+      },
+      {
+        "l": "Ao contrário de seus predecessores, que simplesmente repetiam movimentos pré-programados, robôs movidos por IA podem ____ a ambientes em mudança em tempo real.",
+        "c": "Robôs com IA não só repetem gestos, eles se adaptam ao que acontece na hora."
+      },
+      {
+        "l": "Esta capacidade é particularmente valiosa em ambientes não estruturados onde os itens podem ser colocados ____.",
+        "c": "Isso é ótimo para lugares onde as coisas não estão sempre na mesma posição exata."
+      },
+      {
+        "l": "No entanto, a implementação de tais sistemas autônomos não está isenta de obstáculos.",
+        "c": "Mas colocar esses robôs para funcionar não é tão simples e tem seus desafios."
+      },
+      {
+        "l": "As empresas devem investir pesadamente em dados de treinamento, um processo que pode ser demorado e ____ caro.",
+        "c": "Treinar essas máquinas exige muitos dados e custa muito dinheiro e tempo."
+      },
+      {
+        "l": "Além disso, confiar em algoritmos probabilísticos introduz um grau de ____ que os engenheiros tradicionais acham inquietante.",
+        "c": "Usar cálculos de probabilidade traz uma incerteza que preocupa engenheiros mais antigos."
+      }
+    ]
+  },
+  "goarno-rfib-17": {
+    "t": [
+      {
+        "l": "Os níveis crescentes de dióxido de carbono na atmosfera não estão apenas aquecendo o planeta, mas também alterando a química dos oceanos.",
+        "c": "O excesso de CO2 no ar esquenta a Terra e muda a composição química do mar."
+      },
+      {
+        "l": "Quando a água do mar absorve CO2, ela se torna mais ácida, um fenômeno que ____ graves riscos à biodiversidade marinha.",
+        "c": "A água mais ácida pela absorção de CO2 ameaça toda a vida dentro do oceano."
+      },
+      {
+        "l": "Esta mudança é particularmente ____ para organismos como corais e mariscos, que lutam para formar suas conchas protetoras.",
+        "c": "Corais e moluscos sofrem muito, pois a acidez impede que eles criem suas conchas."
+      },
+      {
+        "l": "À medida que esses ecossistemas se degradam, os ____ que eles fornecem às comunidades costeiras provavelmente ____ com o tempo."
+      }
+    ]
+  },
+  "goarno-rfib-18": {
+    "t": [
+      {
+        "l": "Os recifes de coral são frequentemente comparados a florestas tropicais subaquáticas devido à sua rica biodiversidade."
+      },
+      {
+        "l": "Esses ecossistemas dependem de um relacionamento ____ com algas que lhes fornecem nutrientes essenciais."
+      },
+      {
+        "l": "No entanto, o aumento da temperatura do mar faz com que os corais expulsem essas algas, deixando os recifes ____ a doenças e à fome."
+      },
+      {
+        "l": "Essa degradação representa uma ____ grave para as comunidades costeiras que dependem deles para proteção contra tempestades."
+      },
+      {
+        "l": "Consequentemente, os cientistas estão ____ para desenvolver linhagens de coral que possam resistir a temperaturas mais altas."
+      }
+    ]
+  },
+  "goarno-rfib-19": {
+    "t": [
+      {
+        "l": "A perfuração nas camadas de gelo da Antártida permite que os cientistas extraiam cilindros conhecidos como núcleos de gelo."
+      },
+      {
+        "l": "Essas amostras contêm pequenas bolhas de ar antigo ____ há muito tempo."
+      },
+      {
+        "l": "Ao analisar a composição do gás, os pesquisadores podem ____ as condições atmosféricas passadas com grande precisão."
+      },
+      {
+        "l": "Esses dados oferecem uma ____ linha de base para entender as mudanças climáticas modernas."
+      },
+      {
+        "l": "Efetivamente, o continente serve como um arquivo congelado, ____ a história ambiental da Terra."
+      }
+    ]
+  },
+  "goarno-rfib-20": {
+    "t": [
+      {
+        "l": "A Antártida é única entre os continentes, pois não possui população humana nativa e não pertence a nenhuma nação."
+      },
+      {
+        "l": "Em vez disso, é governada pelo Tratado da Antártida, que reserva a região exclusivamente para fins pacíficos e pesquisa científica."
+      },
+      {
+        "l": "Desde sua ____, o acordo proibiu com sucesso manobras militares e exploração mineral."
+      },
+      {
+        "l": "Neste ambiente hostil, a cooperação internacional é ____, à medida que pesquisadores de diversos países compartilham logística e dados."
+      },
+      {
+        "l": "Consequentemente, o continente serve como um ____ para a diplomacia global, demonstrando como as nações podem colaborar ____ apesar das tensões políticas em outros lugares."
+      }
+    ]
+  },
+  "goarno-rfib-21": {
+    "t": [
+      {
+        "l": "Bem abaixo da camada de gelo da Antártida encontra-se o Lago Vostok, um vasto corpo de água que permaneceu ____ da atmosfera por milhões de anos."
+      },
+      {
+        "l": "Essa separação extrema cria um ambiente único onde a vida microbiana pode ter ____ de forma independente."
+      },
+      {
+        "l": "Os pesquisadores estão interessados em explorar essas águas, esperando encontrar organismos que possam ____ pistas sobre a vida em outros planetas."
+      },
+      {
+        "l": "No entanto, perfurar o lago apresenta desafios significativos, pois os cientistas devem evitar ____ o ecossistema intocado com micróbios da superfície."
+      }
+    ]
+  },
+  "goarno-rfib-22": {
+    "t": [
+      {
+        "l": "Autoridades de saúde pública estão defendendo cada vez mais a rotulagem nutricional obrigatória em alimentos embalados."
+      },
+      {
+        "l": "Ao implementar indicadores visuais claros, as autoridades esperam ajudar os consumidores a ____ entre opções saudáveis e não saudáveis rapidamente."
+      },
+      {
+        "l": "Essa transparência pressiona os fabricantes a ____ seus produtos, reduzindo os níveis de açúcar para evitar a categorização negativa."
+      },
+      {
+        "l": "No entanto, simplesmente fornecer informações não é uma panaceia; deve ser ____ em uma estratégia mais ampla envolvendo educação."
+      },
+      {
+        "l": "Somente então a sociedade pode esperar ____ as tendências atuais em doenças relacionadas à dieta."
+      }
+    ]
+  },
+  "goarno-rfib-23": {
+    "t": [
+      {
+        "l": "Os oceanos do mundo desempenham um papel crítico na ____ do clima global, absorvendo uma parcela significativa de dióxido de carbono."
+      },
+      {
+        "l": "No entanto, esse processo tem um custo, levando a um fenômeno conhecido como acidificação dos oceanos."
+      },
+      {
+        "l": "À medida que a água se torna mais ácida, ela representa uma ____ grave para a vida marinha, particularmente para os organismos que dependem do carbonato de cálcio para construir suas conchas."
+      },
+      {
+        "l": "Consequentemente, essa interrupção poderia ____ cadeias alimentares inteiras, afetando, em última análise, as populações humanas que dependem de frutos do mar."
+      }
+    ]
+  },
+  "goarno-rfib-24": {
+    "t": [
+      {
+        "l": "Bem dentro da camada de gelo da Antártida, camadas de neve congelada fornecem um registro detalhado do clima passado da Terra."
+      },
+      {
+        "l": "Os cientistas perfuram o gelo para recuperar núcleos contendo bolhas de ar antigo."
+      },
+      {
+        "l": "Esses gases presos oferecem um ____ direto da atmosfera de milhares de anos atrás."
+      },
+      {
+        "l": "Ao analisar sua composição química, os pesquisadores podem ____ padrões históricos de temperatura com precisão."
+      },
+      {
+        "l": "Esses dados são essenciais para entender como o planeta ____ aos níveis variáveis de gases de efeito estufa."
+      },
+      {
+        "l": "Em última análise, tais descobertas servem como uma ____ vital para prever futuras mudanças ambientais."
+      }
+    ]
+  },
+  "goarno-rfib-25": {
+    "t": [
+      {
+        "l": "O Vale do Silício é frequentemente retratado como um berço de inovação disruptiva, ainda assim, a dinâmica do sucesso está mudando."
+      },
+      {
+        "l": "O custo exorbitante das operações tem ____ muitas startups a reconsiderar suas estratégias."
+      },
+      {
+        "l": "Em vez de almejar o domínio global imediato, as empresas emergentes frequentemente ____ problemas específicos dentro de indústrias estabelecidas."
+      },
+      {
+        "l": "Essa evolução levou os capitalistas de risco a serem mais ____ em suas decisões de financiamento, buscando planos de negócios tangíveis em vez de meros conceitos."
+      },
+      {
+        "l": "No entanto, o ecossistema da região permanece um poderoso ímã, continuando a ____ mentes ambiciosas que buscam deixar sua marca."
+      }
+    ]
+  },
+  "goarno-rfib-26": {
+    "t": [
+      {
+        "l": "Arranjos de trabalho flexíveis são frequentemente defendidos como uma ferramenta crucial para melhorar a equidade de gênero em ambientes corporativos."
+      },
+      {
+        "l": "No entanto, as evidências indicam que, embora tais políticas facilitem o equilíbrio entre vida profissional e pessoal, elas podem inadvertidamente ____ o avanço na carreira."
+      },
+      {
+        "l": "Funcionários que trabalham remotamente podem experimentar visibilidade reduzida, levando os gerentes a ____ preferencialmente tarefas de alto risco àqueles presentes fisicamente."
+      },
+      {
+        "l": "Para neutralizar esse viés, as empresas devem garantir que as avaliações foquem em ____ em vez do tempo gasto em uma mesa, ou essas iniciativas falharão em ____ a lacuna de liderança."
+      }
+    ]
+  },
+  "goarno-rfib-27": {
+    "t": [
+      {
+        "l": "Robôs colaborativos, comumente conhecidos como cobots, representam uma mudança significativa nos paradigmas de manufatura."
+      },
+      {
+        "l": "Eles são projetados especificamente para operar ____ trabalhadores humanos em vez de ficarem confinados a gaiolas isoladas."
+      },
+      {
+        "l": "Ao contrário dos robôs industriais tradicionais que exigem separação estrita para garantir a segurança, os cobots vêm ____ com sensores avançados capazes de detectar a presença humana e ajustar seus movimentos adequadamente."
+      },
+      {
+        "l": "Essa capacidade única os torna ideais para tarefas que exigem uma combinação de flexibilidade e precisão."
+      },
+      {
+        "l": "No entanto, integrar essas máquinas aos fluxos de trabalho existentes requer um planejamento meticuloso para ____ a eficiência operacional sem ____ protocolos de segurança estabelecidos."
+      }
+    ]
+  },
+  "goarno-rfib-28": {
+    "t": [
+      {
+        "l": "Instalações industriais frequentemente geram águas residuais contendo poluentes perigosos que são ____ diretamente nos cursos d'água locais."
+      },
+      {
+        "l": "Com o tempo, essas substâncias persistentes ____ nos tecidos de organismos aquáticos, tornando-se significativamente mais concentradas à medida que sobem na cadeia alimentar. ____, predadores de topo enfrentam riscos elevados à saúde devido à exposição a essas toxinas."
+      },
+      {
+        "l": "Portanto, é essencial ____ políticas ambientais mais rígidas para conter efetivamente essa forma de contaminação."
+      }
+    ]
+  },
+  "goarno-rfib-29": {
+    "t": [
+      {
+        "l": "O Renascimento do Harlem marcou um período de rica atividade artística interdisciplinar entre afro-americanos."
+      },
+      {
+        "l": "Durante esse tempo, o bairro do Harlem na cidade de Nova York tornou-se um centro cultural onde o jazz, a literatura e a arte ____."
+      },
+      {
+        "l": "Os criativos utilizaram essa plataforma para ____ sua identidade e defender os direitos civis."
+      },
+      {
+        "l": "O movimento não apenas celebrou a herança negra, mas também ____ os estereótipos raciais predominantes da época, deixando uma marca duradoura na cultura americana."
+      }
+    ]
+  },
+  "goarno-rfib-30": {
+    "t": [
+      {
+        "l": "As obrigações de cuidado infantil historicamente recaíram ____ sobre as mulheres, criando barreiras significativas ao avanço na carreira."
+      },
+      {
+        "l": "Em resposta, empresas com visão de futuro estão introduzindo políticas de licença parental compartilhada projetadas para promover uma distribuição mais ____ de deveres domésticos."
+      },
+      {
+        "l": "Essas iniciativas visam ____ a suposição generalizada de que o cuidado é exclusivamente domínio das mães."
+      },
+      {
+        "l": "Embora a ____ da licença paternidade varie entre as indústrias, normalizar essa prática é visto como crucial para alcançar a verdadeira paridade de gênero na esfera profissional."
+      }
+    ]
+  },
+  "goarno-rfib-31": {
+    "t": [
+      {
+        "l": "Os recifes de coral são frequentemente descritos como as florestas tropicais do mar, sustentando uma vasta gama de vida marinha."
+      },
+      {
+        "l": "No entanto, o aumento da temperatura dos oceanos representa uma ____ significativa para esses ecossistemas delicados."
+      },
+      {
+        "l": "Quando a água fica muito quente, os corais expulsam as algas que vivem em seus tecidos, fazendo com que fiquem completamente brancos."
+      },
+      {
+        "l": "Esse fenômeno, conhecido como branqueamento de corais, deixa os corais ____ a doenças e à morte."
+      },
+      {
+        "l": "A menos que o aquecimento global seja ____, corremos o risco de perder esses habitats ____ para sempre."
+      }
+    ]
+  },
+  "goarno-rfib-32": {
+    "t": [
+      {
+        "l": "Os cientistas perfuram profundamente a camada de gelo da Antártida para extrair amostras cilíndricas conhecidas como núcleos de gelo."
+      },
+      {
+        "l": "Essas colunas congeladas ____ uma linha do tempo do clima passado da Terra, estendendo-se por centenas de milhares de anos."
+      },
+      {
+        "l": "À medida que a neve se acumula e ____ em gelo, ela aprisiona pequenas bolhas de ar que preservam amostras da atmosfera antiga."
+      },
+      {
+        "l": "Ao analisar a composição química desse ar, os pesquisadores podem ____ mudanças históricas de temperatura."
+      },
+      {
+        "l": "Esses dados são cruciais para ____ como o clima moderno pode reagir às crescentes emissões de carbono."
+      }
+    ]
+  },
+  "goarno-rfib-33": {
+    "t": [
+      {
+        "l": "Certas espécies de plantas possuem a notável capacidade de extrair metais pesados do solo."
+      },
+      {
+        "l": "Essa estratégia, conhecida como fitorremediação, oferece uma maneira sustentável de ____ terras contaminadas."
+      },
+      {
+        "l": "Ao contrário da escavação tradicional, que é frequentemente proibitivamente ____ e prejudicial à paisagem, o uso de plantas é muito menos invasivo."
+      },
+      {
+        "l": "Os poluentes são absorvidos pelas raízes e subsequentemente ____ nos tecidos aéreos da planta."
+      },
+      {
+        "l": "Portanto, a biomassa deve ser colhida e descartada ____ para garantir que as toxinas não retornem ao meio ambiente."
+      }
+    ]
+  },
+  "goarno-rfib-34": {
+    "t": [
+      {
+        "l": "Os oceanos agem como um sumidouro maciço para dióxido de carbono, absorvendo uma quantidade significativa das emissões geradas pela atividade humana."
+      },
+      {
+        "l": "Embora esse processo desacelere a taxa de aquecimento global, ele tem consequências ____ para a química marinha."
+      },
+      {
+        "l": "A absorção de CO2 leva à acidificação, que ____ a sobrevivência de organismos calcificadores como corais e mariscos."
+      },
+      {
+        "l": "Se essas espécies diminuírem, a estabilidade da cadeia alimentar marinha pode ser severamente ____."
+      },
+      {
+        "l": "Portanto, reduzir as emissões é essencial não apenas para limitar o aumento da temperatura, mas também para ____ a saúde dos nossos oceanos."
+      }
+    ]
+  }
+}

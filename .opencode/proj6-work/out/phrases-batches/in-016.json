@@ -1,0 +1,482 @@
+[
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "Following capture, the gas is compressed and injected deep into geological formations, such as saline aquifers, intended to sequester it indefinitely."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "While the theoretical benefits of CCS are clear, its practical application remains a subject of intense debate."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "Advocates emphasize that CCS provides a necessary pathway to decarbonize heavy industries that cannot easily switch to renewable electricity."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "Without such technology, they argue, achieving net-zero targets is virtually impossible."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "Conversely, skeptics highlight the significant energy penalty incurred during the capture phase, which paradoxically requires burning more fuel to generate the same amount of net power."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "Additionally, the integrity of geological storage poses a long-term risk; even minor leakages over centuries could undermine the climate benefits."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "Consequently, CCS occupies a complex position: it is viewed by many as an indispensable bridge technology, yet it is burdened by economic and environmental uncertainties that hinder its widespread adoption."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-20",
+    "index": 0,
+    "text": "According to the passage, which factor contributes to the controversy surrounding carbon capture and storage?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "Black carbon, a primary component of soot, has emerged as a significant driver of global climate change, ranking second only to carbon dioxide in its warming influence."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "Unlike well-known greenhouse gases that can persist in the atmosphere for centuries, black carbon is a short-lived climate pollutant with a lifespan of merely days to weeks."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "Originating from the incomplete combustion of fossil fuels and biomass, these fine particles absorb solar energy and warm the atmosphere directly."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "Their impact is particularly severe in polar regions; when black carbon settles on snow and ice, it darkens the surface, reducing its ability to reflect sunlight—a phenomenon known as the albedo effect."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "This absorption of heat accelerates melting, exposing darker land or water beneath, which further intensifies warming."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "Consequently, researchers suggest that targeting black carbon emissions presents a unique opportunity for near-term climate relief."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "Since these particles are removed from the atmosphere relatively quickly by rain and gravity, cutting emissions could result in immediate cooling benefits, slowing the rate of Arctic ice loss more swiftly than carbon dioxide reductions alone."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-21",
+    "index": 0,
+    "text": "According to the passage, what is a key advantage of reducing black carbon emissions compared to reducing carbon dioxide?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "For much of human history, reading was fundamentally a social and auditory act."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "In classical antiquity, written texts were generally viewed as scripts for performance, intended to be declaimed to an audience or muttered aloud to oneself."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "The concept of reading silently, processing information directly from eye to brain without the mediation of the voice, was widely regarded as an anomaly."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "St. Augustine, in his Confessions, famously expressed astonishment upon witnessing Ambrose, the Bishop of Milan, reading without moving his lips—a behavior so unusual in the fourth century that it warranted specific documentation."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "The gradual transition to silent reading, which became more prevalent during the Middle Ages with the introduction of word separation in manuscripts, revolutionized the intellectual landscape."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "It transformed reading from a communal performance into a private, interior experience."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "This shift fostered a new form of individual autonomy, allowing readers to traverse texts at their own pace and engage in critical introspection without the constraints of a gathering."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "Consequently, the written word became a vehicle for private reflection, fundamentally altering the relationship between the reader and the text."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-22",
+    "index": 0,
+    "text": "According to the passage, what was a significant consequence of the historical shift towards silent reading?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "In an era dominated by algorithmic curation and database indexing, the fundamental structure of expository writing is undergoing a subtle transformation."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "Authors in journalism and academia are increasingly incentivized to optimize their texts for retrieval systems rather than solely for narrative flow or stylistic elegance."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "This phenomenon, often driven by the mechanics of Search Engine Optimization (SEO), compels writers to front-load essential terminology and adopt standardized phrasing that machines can easily categorize."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "While this strategic linguistic rigidity ensures that content remains discoverable amidst an overwhelming deluge of information, critics argue it risks flattening the nuance of complex arguments."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "When the primary objective shifts from engaging the human intellect to satisfying an indexing crawler, the richness of vocabulary often diminishes."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "Furthermore, the serendipitous discovery of tangential ideas—once a hallmark of browsing physical libraries—becomes less likely as algorithms steer readers precisely to what they requested, filtering out the unexpected."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "Consequently, the relentless pursuit of 'findability' may inadvertently compromise the intellectual depth and creative diversity of modern discourse."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-24",
+    "index": 0,
+    "text": "What is the main argument the author makes regarding the impact of search optimization on writing?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "At the turn of the 20th century, urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution plaguing industrial cities."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "His vision, known as the Garden City movement, sought to combine the economic opportunities of the city with the environmental benefits of the countryside."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "Howard advocated for the creation of planned, self-contained communities surrounded by 'greenbelts'—rings of agricultural land intended to limit urban sprawl and ensure residents had access to nature."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "Unlike the chaotic expansion of existing metropolises, these garden cities were meticulously designed with specific zones for industry, housing, and public parks."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "The concept was not merely aesthetic but deeply social; Howard believed that by harmonizing human habitation with the natural world, society could alleviate the poverty and squalor characteristic of the Victorian era."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "Although only a few true garden cities, such as Letchworth and Welwyn, were built during his lifetime, the movement profoundly influenced modern town planning, particularly the development of the post-war 'New Towns'."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-25",
+    "index": 0,
+    "text": "According to the text, what was a primary objective of Ebenezer Howard's Garden City proposal?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "For centuries, archaeologists operated under the assumption that the Amazon basin was an inhospitable environment for large-scale civilization."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "The prevailing theory suggested that the region's acidic, nutrient-poor soils were incapable of supporting the intensive agriculture required to feed populous settlements."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "Consequently, the rainforest was viewed as a pristine, sparsely inhabited wilderness where only small, nomadic tribes could survive."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "However, recent findings have fundamentally challenged this perspective."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "Researchers have identified vast expanses of terra preta, or 'dark earth'—a highly fertile, anthropogenic soil found throughout the basin."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "Unlike the surrounding natural soils, terra preta is rich in charcoal, pottery shards, and organic matter, indicating deliberate engineering by indigenous populations over thousands of years."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "The existence of these modified soil tracts suggests that pre-Columbian Amazonia was not a virgin wilderness, but a managed landscape capable of sustaining millions of people in complex, sedentary societies."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "This revelation forces a reconsideration of the historical demography of South America and the sophistication of its early inhabitants' environmental stewardship."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-26",
+    "index": 0,
+    "text": "What is the main significance of the discovery of terra preta described in the passage?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "In the aftermath of the Second World War, British urban planners faced a critical convergence of housing shortages and bomb-damaged infrastructure."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "The strategic response was not merely in situ reconstruction but the deliberate dispersal of the population from overcrowded, soot-stained industrial centers to freshly designated \"New Towns.\""
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "Unlike the organic, uncontrolled sprawl of previous decades, these settlements were meticulously master-planned to be self-sufficient entities, designed to provide local employment, leisure, and housing within a unified boundary."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "The underlying philosophy was to engender balanced communities where residents could live and work without the burden of commuting back to the metropolis."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "However, while the architectural and social vision was bold, the economic reality often lagged behind the planning ideals."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "Attracting a diverse range of industries to these satellite locations proved significantly more difficult than anticipated."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "Consequently, a phenomenon emerged where many New Towns initially functioned merely as \"dormitory settlements,\" with residents continuing to travel long distances to the main cities for employment."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "This persistent disconnect between the idealized goal of economic self-containment and the practical necessity of commuting significantly undermined the utopian aspirations of the post-war planning committees."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-27",
+    "index": 0,
+    "text": "According to the text, what was a significant discrepancy between the plan for New Towns and their actual development?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "Permafrost, the permanently frozen ground covering vast stretches of the Northern Hemisphere, serves as one of the Earth's largest terrestrial carbon sinks."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "For thousands of years, this frozen soil has locked away the remains of ancient plants and animals, effectively halting the decomposition process."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "However, as global temperatures rise, this permafrost is beginning to thaw at an unprecedented rate."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "When the ice melts, the organic matter within the soil becomes accessible to microbes, which break it down and release the by-products into the atmosphere."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "Depending on oxygen availability, this process emits either carbon dioxide or methane."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "The release of methane is particularly concerning because it is significantly more efficient at trapping heat than carbon dioxide over shorter timeframes."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "This creates a dangerous feedback loop: as the planet warms, more permafrost thaws, releasing more greenhouse gases, which in turn causes further warming."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "Consequently, what was once a stable storage system for carbon is threatening to become a major contributor to global climate instability."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-28",
+    "index": 0,
+    "text": "What is the main conclusion drawn by the writer regarding permafrost?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "Traditional linear texts offer a singular path, where the author serves as the sole guide through an argument or narrative."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "In contrast, the architecture of the modern web is built on hypertext, a system that interconnects documents through clickable links."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "While this structure offers unparalleled access to supplementary information, it also introduces a unique psychological dynamic."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "In a hyperlinked environment, the reader is no longer a passive passenger but an active navigator who must constantly evaluate whether to follow a diversion or remain on the primary page."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "Educational theorists posit that this requirement to make frequent decisions—known as the 'decision-load'—competes with the mental energy needed for processing the actual text."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "Every potential exit point forces a split-second evaluation of value, interrupting the continuous flow of thought required for immersion."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "Therefore, the difficulty of reading in such environments stems not just from the vocabulary or subject matter, but from the executive capability required to manage these interruptions."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "The reader must balance the desire for depth in the current text against the promise of relevance elsewhere, a task that can fragment attention and hinder the formation of a unified understanding."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-29",
+    "index": 0,
+    "text": "According to the passage, what specific challenge does a hyperlinked environment present to the reader?"
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-30",
+    "index": 0,
+    "text": "The extinction of North American megafauna, such as mammoths and mastodons, at the end of the Pleistocene epoch has long been a subject of contention among researchers."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-30",
+    "index": 0,
+    "text": "The \"overkill hypothesis\" suggests that the arrival of skilled human hunters was the decisive factor, asserting that these animals were quickly eradicated by the proliferation of the Clovis culture."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-30",
+    "index": 0,
+    "text": "Proponents point to the synchronization between human arrival and the disappearance of large mammals as definitive proof."
+  },
+  {
+    "type": "mcq_single",
+    "qid": "goarno-mcq_si-30",
+    "index": 0,
+    "text": "Conversely, other scholars emphasize the role of climate change, noting that the warming world altered vegetation zones and fragmented habitats, placing immense stress on large herbivore populations independent of human activity."
+  }
+]

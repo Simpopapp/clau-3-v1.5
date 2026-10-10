@@ -1,0 +1,482 @@
+[
+  {
+    "type": "read_fib",
+    "qid": "edknot-rfib-12",
+    "index": 0,
+    "text": "In the US, artists in the mid-1950s began to create a ____ to Pop."
+  },
+  {
+    "type": "read_fib",
+    "qid": "edknot-rfib-12",
+    "index": 0,
+    "text": "Strongly influenced by Dada and its ____ on appropriation and everyday objects, artists increasingly worked with ____ , consumer products, and a healthy dose of irony."
+  },
+  {
+    "type": "read_fib",
+    "qid": "edknot-rfib-12",
+    "index": 0,
+    "text": "Jasper Johns ____ iconic imagery like the American flag; Robert Rauschenberg employed silk-screen printings and found objects; and Larry Rivers used images of mass-produced goods."
+  },
+  {
+    "type": "read_fib",
+    "qid": "edknot-rfib-12",
+    "index": 0,
+    "text": "All three are considered American ____ of Pop."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-d03e133f",
+    "index": 0,
+    "text": "A balanced diet and regular exercise are necessary for good health."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-3f4ea0cf",
+    "index": 0,
+    "text": "A good research assistant is not afraid to ask questions."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-d3e8d503",
+    "index": 0,
+    "text": "A celebrated theory is still a great source of controversy."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-ac0be315",
+    "index": 0,
+    "text": "A good way to improve your vocabulary is through repetition."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-ce56f5ff",
+    "index": 0,
+    "text": "All course stages are on the website."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-73d64bf7",
+    "index": 0,
+    "text": "All lectures on economic policy have been cancelled."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-209e6c2c",
+    "index": 0,
+    "text": "Animals raised in captivity behave differently than their wild counterpart."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-c76ffa73",
+    "index": 0,
+    "text": "Being bilingual is not necessarily being having the ability of understanding two languages."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-c63717fb",
+    "index": 0,
+    "text": "Certain organisms can reproduce using just one parent."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-07f71f5f",
+    "index": 0,
+    "text": "Children acquire their first language without any conscious effort."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-829039d7",
+    "index": 0,
+    "text": "Consumer confidence tend to increase as the economy expands."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-656a652e",
+    "index": 0,
+    "text": "Distance learning allows you to develop a career around your commitments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-1e047886",
+    "index": 0,
+    "text": "Doing nothing is not always better than taking risks."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-bce3dfb3",
+    "index": 0,
+    "text": "Economic development needs to be supported by the government."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-3b480a39",
+    "index": 0,
+    "text": "Even if you have used cosmetics for years without problems, one or more ingredients can still trigger an allergic reaction."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-9f5ee82f",
+    "index": 0,
+    "text": "Food has become a political issue in the world."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-fae09104",
+    "index": 0,
+    "text": "Get enough sleep the night before the test."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-dd2c312e",
+    "index": 0,
+    "text": "Governments need to make solar energy more affordable to everyone."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-e2bcce8c",
+    "index": 0,
+    "text": "Implementation figures are expected to be improved in the next few years."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-002c8472",
+    "index": 0,
+    "text": "Key business partners are often intertwined in expense accounts."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-8c7ef0ab",
+    "index": 0,
+    "text": "Mature students usually adapt to university life extremely well."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-e9ac8fde",
+    "index": 0,
+    "text": "More research is needed before any definitive conclusion is drawn."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-9287686a",
+    "index": 0,
+    "text": "Most of the students have not considered this application before."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-f9faae02",
+    "index": 0,
+    "text": "New credit cards will soon use the finger press technology."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-ac2ec27a",
+    "index": 0,
+    "text": "Our laboratory equipment is provided in free charge."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-546df6ea",
+    "index": 0,
+    "text": "Peer review is a central part of scientific method."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-6323df2d",
+    "index": 0,
+    "text": "Placement test for mathematics and statistics is offered every semester."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-3b9af19e",
+    "index": 0,
+    "text": "Please provide the reports to support your idea of these arguments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-8b638320",
+    "index": 0,
+    "text": "Some vocational courses of institution are funded by private enterprises."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-174c196f",
+    "index": 0,
+    "text": "Students have the option to live in college residences or apartments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-7d2a0c81",
+    "index": 0,
+    "text": "The aerial photographs were promptly registered for further evaluation."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-a64230f1",
+    "index": 0,
+    "text": "The body fat keeps internal organs warm."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-d28e39c6",
+    "index": 0,
+    "text": "The cafeteria features soup, salads, sandwiches, chickens and fish."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-0e4615c4",
+    "index": 0,
+    "text": "The coffee house has a special student discount throughout the week."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-f9c32caf",
+    "index": 0,
+    "text": "The cooperator operates a continuous assessment."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-a7d36c19",
+    "index": 0,
+    "text": "The qualification will be assessed by using a criterion referenced approach."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-e66f8bfe",
+    "index": 0,
+    "text": "The studies showed the Hong Kong people are most active in Asia."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-1497707a",
+    "index": 0,
+    "text": "The theatre courses are encouraging students to exercise creativity."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-2ec34446",
+    "index": 0,
+    "text": "The topic of next week colloquium will be nuclear disarmament."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-94155b0a",
+    "index": 0,
+    "text": "The toughest part of public transport is funding."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-39b1e828",
+    "index": 0,
+    "text": "There are many good reasons to grow trees in more cities."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-91e6ef5b",
+    "index": 0,
+    "text": "There are not many interconnections between philosophy and psychology."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-1a823df1",
+    "index": 0,
+    "text": "There is an important difference between mass production and batch production."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-eae6c281",
+    "index": 0,
+    "text": "This book can be borrowed for a maximum of one week."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-ac53940d",
+    "index": 0,
+    "text": "This essay will argue technology does more good than harm."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-8c062f97",
+    "index": 0,
+    "text": "This slide shows that there has been minimal growth."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-e6d3f05a",
+    "index": 0,
+    "text": "Time and distance are used to calculate speed."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-964e5b42",
+    "index": 0,
+    "text": "Today we will look at how to play the data visually."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-2e42bbb4",
+    "index": 0,
+    "text": "Unemployment rate has fallen to its lowest level in years."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-b0a5bb50",
+    "index": 0,
+    "text": "Unlike short sleep, overlong sleep increases the risk of illness."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-59af7ea1",
+    "index": 0,
+    "text": "Unusual weather patterns are making farming more difficult today."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-863639c3",
+    "index": 0,
+    "text": "We are achieving common prosperity throughout the department."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-1de6c12b",
+    "index": 0,
+    "text": "Your statistical information depends on your raw data."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-36a0f05a",
+    "index": 0,
+    "text": "A laptop has been found at the biology lab."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-245575ea",
+    "index": 0,
+    "text": "Advanced technology will create growth in the economy."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-8d848e1a",
+    "index": 0,
+    "text": "All medical students must clean their hands before entering the room."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-0eccc3cf",
+    "index": 0,
+    "text": "Animal and plant cells have a number of structures in common."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-c476ff23",
+    "index": 0,
+    "text": "Archaeologists discovered tools and artifacts in ancient tombs."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-77379dca",
+    "index": 0,
+    "text": "As union members, we can influence the change of the university."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-8d97c96d",
+    "index": 0,
+    "text": "Astronauts are using light years to measure distance in the space."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-8baa1622",
+    "index": 0,
+    "text": "Banks charge interests from whom they lent money to."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-d85547d7",
+    "index": 0,
+    "text": "Blue whales are the largest mammal that they have ever lived on earth."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-5b66513c",
+    "index": 0,
+    "text": "Courses are assessed by group work and individual assignment."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-b02fd10c",
+    "index": 0,
+    "text": "Dealing with the growing of population is a challenge for many governments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-4d71fef9",
+    "index": 0,
+    "text": "Every student has regular meeting with his or her personal tutor."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-23095166",
+    "index": 0,
+    "text": "Firm conclusions can be established through rigorous experiments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-c21b1734",
+    "index": 0,
+    "text": "Global connections increased in academic communities, thanks to social media."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-9faca60e",
+    "index": 0,
+    "text": "Graphs and charts allow allowed data to be more easily understood."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-e54e7648",
+    "index": 0,
+    "text": "Graphs are often useful for geographical research."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-9189a7c1",
+    "index": 0,
+    "text": "Growing population has posed a challenge to many governments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-30c9566c",
+    "index": 0,
+    "text": "Horizontal the line on the graph indicates there is no change."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-56b4ebc6",
+    "index": 0,
+    "text": "It helps you to rationalize your arguments."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-52cb9f4b",
+    "index": 0,
+    "text": "It is necessary to dress formally for the graduation ceremony."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-dbd2124b",
+    "index": 0,
+    "text": "Library plays an important role in student's life."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-15ff939a",
+    "index": 0,
+    "text": "Make sure you choose a course which provides great career opportunities."
+  },
+  {
+    "type": "wfd",
+    "qid": "pte-wfd-cf5ff5fd",
+    "index": 0,
+    "text": "Make sure you've saved all the files before turning off the computer."
+  }
+]

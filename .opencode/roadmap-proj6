@@ -1,0 +1,57 @@
+# Roadmap — projeto 6 (pack "studie-plus": tradução + áudio + mobile-first)
+
+Fonte: `.opencode/prd-project6.md` (← `.opencode/project6`). Gates por fase: vitest
+verde · tsgo limpo · build OK · lint 0 erros · preview :8080 (Playwright). Pack 100%
+off por padrão; dados em `src/data/plus/`; zero deps de runtime; app 100% local.
+
+- [x] Fase 0 (P0) — Fundação: Settings v5 + switches do pack ✅ (feita em 2026-10-10)
+  - [x] storage.ts: `plus: { wordTranslation, phraseTranslation, plusAudio }` (off),
+        normalização, migração v4→v5, backup v5 (import aceita 2/3/4)
+  - [x] /settings: seção "Studie Plus" com 3 toggles + texto de descorrelação
+  - [x] src/lib/plus/settings.ts (puro) + testes (src/test/plus-settings.test.ts, 6 testes)
+  - Gates ✅: vitest 201/201 · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) ·
+    preview pendente de verificação Playwright (fecha na Fase 4/5 junto com o pack)
+- [x] Fase 1 (P0) — Tradução por palavra (tipo 1) ✅ (feita em 2026-10-10; geração de
+      dados bloqueada por saldo 0,00 do AI Gateway — integrada com estado vazio honesto)
+  - [x] Pipeline: extract-words.mjs (12.060 únicas → 6.000 candidatas por frequência);
+        generate-glossary.mjs pronto e resumível (--start/--batches, 402/403 → halt);
+        src/data/plus/glossary.json = {} placeholder até crédito disponível
+        MÉTODO REVISADO (próximo remix): gerar via subagentes em lotes pequenos, sem AI Gateway — ver "Método de geração revisado" no prd-project6.md
+  - [x] src/lib/plus/glossary.ts + words.ts (puros, testados em src/test/plus-words.test.ts)
+  - [x] src/components/plus/PlusWordText.tsx (tap → balão fixo literal+contextual, fecha
+        por toque fora/✕/Esc; sem abrir em scroll/hover; import dinâmico do glossário;
+        modo inline para trechos dentro de bloco; estado vazio honesto)
+  - [x] Integração nos motores: Read Aloud (só quando modo manual desligado e sem
+        resultado; prioridade do modo manual preservada), Re-order (itens), MCQ
+        (mcq/mcq_multi/lst_mcq; lst_smw fica plain por ter lacuna), Read FIB (trechos de
+        texto entre lacunas, inline), Write Essay (enunciado), SWT (texto-fonte),
+        SST/lst_summary (transcrição no resultado). Motores só-áudio (repeat, retell,
+        answer_short, wfd, lst_fib, lst_hiw, lst_hcs) ficam de fora por design — a
+        transcrição é gabarito e não pode vazar tradução antes da resposta
+  - Gates ✅: vitest 210/210 · tsgo limpo · build/lint/preview pendentes de fechamento
+    (Fase 5, junto com o pack)
+- [ ] Fase 2 (P1) — Tradução por frase (tipo 2)
+  - [ ] src/lib/plus/sentences.ts + phrases.ts (puros, testados)
+  - [ ] Pipeline: extract-sentences.mjs + generate-phrases.mjs → src/data/plus/phrases/
+        (cobertura inicial: read_aloud, reorder_paragraphs, mcq_single, mcq_multi,
+        read_fib, wfd)
+  - [ ] src/components/plus/PlusPhraseCard.tsx (expande só por tap; estado vazio
+        honesto quando sem dados)
+  - Gates: vitest · tsgo · build · lint · preview (sem auto-abertura em scroll)
+- [ ] Fase 3 (P1) — Áudio do pack (pronúncia)
+  - [ ] src/lib/plus/plusAudio.ts (matriz campo × tipo; nunca duplica áudio nativo)
+  - [ ] src/components/plus/PlusSpeakButton.tsx (Web Speech, rate = modelRate,
+        cancela ao trocar de questão; 🔊 pt-BR no card de frase se voz disponível)
+  - Gates: vitest · tsgo · build · lint · preview (botão só nos campos corretos)
+- [ ] Fase 4 (P1) — Mobile-first + cobertura residual
+  - [ ] Auditoria Playwright mobile (390×844) em todos os motores; correções
+        (alvos ≥ 44 px, popover dentro do viewport, sem hover-dependência)
+  - [ ] Pipeline estendido aos tipos restantes; cobertura residual registrada
+  - Gates: vitest · tsgo · build · lint · preview mobile (screenshots)
+- [ ] Fase 5 (P0) — Fechamento
+  - [ ] Gates globais completos; suite cresce de 195
+  - [ ] AGENTS.md: estado atual preenchido
+  - [ ] Monitor avisado ("remix finalizado (+N fases do roadmap-proj6)") e usuário informado
+
+Regras: tradução NUNCA se mistura ao banco nativo; geração de dados só dev-time;
+integrações só por tap explícito; app 100% local (localStorage).

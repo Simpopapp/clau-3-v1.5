@@ -1,0 +1,482 @@
+[
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-fbc0a8d8",
+    "index": 0,
+    "text": "Linguistics is the scientific study of language, encompassing its structure, meaning, and historical evolution across different human populations."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-fbc0a8d8",
+    "index": 0,
+    "text": "Researchers analyze how grammatical rules are formed and how dialects develop within specific cultural contexts."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-fbc0a8d8",
+    "index": 0,
+    "text": "This study provides a deep understanding of human communication and the ways in which language shapes our perception of the world around us."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-87c53307",
+    "index": 0,
+    "text": "The preservation of natural heritage sites is essential for maintaining biodiversity and honoring the historical significance of various landscapes."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-87c53307",
+    "index": 0,
+    "text": "Conservationists implement management plans that protect ecosystems from harmful human encroachment while allowing for sustainable tourism."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-87c53307",
+    "index": 0,
+    "text": "Balancing these competing interests is a central challenge for those committed to protecting the environment for future generations to enjoy."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f98966a8",
+    "index": 0,
+    "text": "Mechanical engineering involves the design and analysis of complex systems that drive modern technological progress in numerous sectors."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f98966a8",
+    "index": 0,
+    "text": "From small precision devices to massive industrial machines, engineers must consider materials science and thermodynamics to ensure optimal performance."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-f98966a8",
+    "index": 0,
+    "text": "Continuous innovation in this field is vital for developing efficient energy solutions and addressing global infrastructure challenges effectively."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7f288f3b",
+    "index": 0,
+    "text": "Public health initiatives play a crucial role in preventing disease outbreaks through education and the implementation of vaccination programs."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7f288f3b",
+    "index": 0,
+    "text": "By monitoring health trends in the population, officials can identify potential risks and respond with targeted interventions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-7f288f3b",
+    "index": 0,
+    "text": "These efforts are fundamental to improving life expectancy and reducing the burden of preventable illness on modern healthcare systems."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9690acd6",
+    "index": 0,
+    "text": "Geophysical research involves studying the Earth's interior processes, such as tectonic plate movement and volcanic activity, in real time."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9690acd6",
+    "index": 0,
+    "text": "Scientists use seismic data to map the structure of the planet and predict potential earthquake risks in vulnerable regions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9690acd6",
+    "index": 0,
+    "text": "This knowledge is essential for disaster preparedness and for designing resilient buildings that can withstand significant ground shaking."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-4baf110c",
+    "index": 0,
+    "text": "Philosophy of mind examines the relationship between consciousness and the physical brain, a central problem in cognitive science."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-4baf110c",
+    "index": 0,
+    "text": "Scholars debate whether mental states can be reduced to neurological events or if they possess unique properties that transcend biological functions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-4baf110c",
+    "index": 0,
+    "text": "Exploring these questions contributes to our broader understanding of human experience and the nature of the self."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-33bc1ace",
+    "index": 0,
+    "text": "Renewable energy technologies are becoming increasingly affordable as innovations in solar and wind power efficiency continue to accelerate rapidly."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-33bc1ace",
+    "index": 0,
+    "text": "Governments are now prioritizing investment in these clean sources to reduce reliance on fossil fuels and meet climate targets."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-33bc1ace",
+    "index": 0,
+    "text": "This transition represents a major shift in the global energy landscape toward a more sustainable future."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0a6d30d0",
+    "index": 0,
+    "text": "History is not merely a record of past events but an ongoing interpretation that changes as new evidence is uncovered."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0a6d30d0",
+    "index": 0,
+    "text": "Historians analyze primary sources to construct narratives that explain how past decisions impact contemporary political and social structures."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-0a6d30d0",
+    "index": 0,
+    "text": "Engaging with history allows us to reflect on the complexities of human motivation and the cyclical nature of progress."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e73705ba",
+    "index": 0,
+    "text": "The psychology of learning emphasizes the importance of motivation and active engagement in the educational process for students of all ages."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e73705ba",
+    "index": 0,
+    "text": "Educators apply these principles to design curricula that foster critical thinking and long-term retention of information."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-e73705ba",
+    "index": 0,
+    "text": "By creating supportive learning environments, teachers can help students achieve their potential and develop a lifelong passion for knowledge."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9f851da8",
+    "index": 0,
+    "text": "Astrophysics focuses on the physics of the stars, including their life cycles and the processes that lead to supernova explosions."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9f851da8",
+    "index": 0,
+    "text": "By analyzing light spectra, researchers can determine the chemical composition of distant celestial bodies with remarkable precision."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9f851da8",
+    "index": 0,
+    "text": "These findings enrich our understanding of the universe's origin and the distribution of elements essential for life elsewhere."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2a4cd249",
+    "index": 0,
+    "text": "Corporate finance involves managing the capital structure of a company to maximize value for its shareholders over the long term."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2a4cd249",
+    "index": 0,
+    "text": "Financial managers assess investment opportunities while carefully balancing risks and potential returns in volatile markets."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2a4cd249",
+    "index": 0,
+    "text": "Strategic decision-making in this field is critical for maintaining business health and fostering stability in the broader global economy."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9c3cedfa",
+    "index": 0,
+    "text": "Cultural anthropology examines the diversity of human traditions, belief systems, and social practices throughout different parts of the world."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9c3cedfa",
+    "index": 0,
+    "text": "By living within communities, anthropologists gain firsthand insights into how rituals reinforce group cohesion and identity."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-9c3cedfa",
+    "index": 0,
+    "text": "This field provides a unique perspective on the shared aspects of the human experience despite vast differences in cultural norms."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-8d4616c7",
+    "index": 0,
+    "text": "Marine biology studies the complex life forms inhabiting the ocean, ranging from microscopic plankton to the largest whales known today."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-8d4616c7",
+    "index": 0,
+    "text": "Researchers investigate how ocean temperatures and chemical balances affect these fragile ecosystems and their inhabitants."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-8d4616c7",
+    "index": 0,
+    "text": "Protecting these environments is vital, as oceans play a primary role in regulating the global climate and supporting human food security."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c210e70d",
+    "index": 0,
+    "text": "The chemistry of materials focuses on the synthesis of new substances with unique thermal, electrical, or mechanical properties for specific applications."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c210e70d",
+    "index": 0,
+    "text": "Researchers often design polymers or metals that can perform under extreme conditions in the aerospace or electronics industries."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c210e70d",
+    "index": 0,
+    "text": "Such innovations drive technological progress by enabling the development of more durable and efficient consumer and industrial products."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-79203a0a",
+    "index": 0,
+    "text": "Environmental law establishes the regulatory framework necessary to hold industries accountable for their impact on air and water quality."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-79203a0a",
+    "index": 0,
+    "text": "By enforcing standards, governments can prevent pollution and protect sensitive ecosystems from degradation caused by human activity."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-79203a0a",
+    "index": 0,
+    "text": "Legal experts work to ensure that these regulations are both enforceable and fair, balancing industrial interests with public health needs."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-5036aa4a",
+    "index": 0,
+    "text": "Literature provides a medium for exploring the complexities of human identity and the ethical dilemmas that define our moral landscape."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-5036aa4a",
+    "index": 0,
+    "text": "Through characters and narrative arcs, writers reflect on historical traumas and the struggle for justice in society."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-5036aa4a",
+    "index": 0,
+    "text": "Reading diverse works of literature cultivates empathy and encourages a deeper appreciation for the variety of human voices globally."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c0522c8d",
+    "index": 0,
+    "text": "Pediatrics is a specialized medical field dedicated to the health and well-being of infants, children, and adolescents through their development."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c0522c8d",
+    "index": 0,
+    "text": "Doctors monitor physical and emotional growth, ensuring that early interventions are available when health concerns arise during these critical years."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-c0522c8d",
+    "index": 0,
+    "text": "This proactive approach is fundamental to ensuring long-term health outcomes and the successful development of future generations."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-610664eb",
+    "index": 0,
+    "text": "Sustainable agriculture seeks to balance the need for high food yields with the preservation of soil health and water resources."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-610664eb",
+    "index": 0,
+    "text": "Farmers adopt techniques such as crop rotation and integrated pest management to minimize chemical usage while maintaining productive yields."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-610664eb",
+    "index": 0,
+    "text": "These practices are increasingly necessary as the world population grows and requires more reliable and ecological food systems."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a201840c",
+    "index": 0,
+    "text": "The study of linguistics helps us understand the underlying structure of human language and how it facilitates social cooperation among groups."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a201840c",
+    "index": 0,
+    "text": "By analyzing phonetics and syntax, researchers discover common patterns across different language families that suggest shared origins."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a201840c",
+    "index": 0,
+    "text": "This research provides significant insights into human cognitive evolution and the nature of the communication systems we use daily."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-1e709707",
+    "index": 0,
+    "text": "Global health organizations work to reduce the prevalence of communicable diseases by improving access to clean water and sanitation services."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-1e709707",
+    "index": 0,
+    "text": "These efforts are essential for empowering communities and preventing the cycle of poverty associated with poor health outcomes."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-1e709707",
+    "index": 0,
+    "text": "International collaboration is required to address these systemic issues and ensure equitable access to basic medical services worldwide."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-aa2172bc",
+    "index": 0,
+    "text": "Geomorphology is the science that explains how the Earth's surface features are created through tectonic and erosive forces over time."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-aa2172bc",
+    "index": 0,
+    "text": "By studying landforms like mountains and canyons, scientists can reconstruct the history of landscape development."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-aa2172bc",
+    "index": 0,
+    "text": "This field is important for predicting natural hazards and managing land use in regions prone to erosion or significant geologic shifts."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-b5f48b0e",
+    "index": 0,
+    "text": "Political philosophy addresses fundamental questions about the legitimacy of authority and the rights of citizens within a free society."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-b5f48b0e",
+    "index": 0,
+    "text": "Thinkers have debated the balance between individual liberty and collective security for centuries, shaping the way modern democracies operate."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-b5f48b0e",
+    "index": 0,
+    "text": "These discussions remain highly relevant today as societies navigate the challenges of globalization and changing notions of justice."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-01ef7205",
+    "index": 0,
+    "text": "Climate modeling uses complex mathematical simulations to predict how the atmosphere and oceans will react to rising greenhouse gas levels."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-01ef7205",
+    "index": 0,
+    "text": "These models help scientists understand the severity of potential future events, such as extreme weather or sea-level rise."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-01ef7205",
+    "index": 0,
+    "text": "While they cannot predict every detail, these tools are essential for planning mitigation strategies and adapting to environmental changes."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a33facde",
+    "index": 0,
+    "text": "Organic chemistry is the study of carbon-based compounds, which form the basis for all known life and many synthetic materials."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a33facde",
+    "index": 0,
+    "text": "Chemists analyze the reactions and structures of these molecules to create new drugs, plastics, and energy-efficient materials."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-a33facde",
+    "index": 0,
+    "text": "This field is essential for advancing medicine and technology while navigating the complexities of sustainable chemical production and usage."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-1d56b8f9",
+    "index": 0,
+    "text": "Urban sociology investigates how the layout of cities influences the social lives and behaviors of those living in metropolitan areas."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-1d56b8f9",
+    "index": 0,
+    "text": "Researchers focus on issues like housing affordability, public transportation, and community spaces that foster a sense of belonging."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-1d56b8f9",
+    "index": 0,
+    "text": "Understanding these dynamics is crucial for creating cities that are inclusive, functional, and pleasant for a diverse population."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6fba83f6",
+    "index": 0,
+    "text": "The philosophy of science examines the methods and assumptions that underpin scientific inquiry, ensuring that research remains objective and valid."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6fba83f6",
+    "index": 0,
+    "text": "By questioning the nature of evidence and scientific progress, philosophers help clarify the limits of our knowledge."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-6fba83f6",
+    "index": 0,
+    "text": "This reflexive practice is essential for maintaining the integrity of science in an age of misinformation and skepticism."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2571047c",
+    "index": 0,
+    "text": "Microbiology investigates the microscopic life forms that inhabit our environment and their profound impact on human health and industry."
+  },
+  {
+    "type": "read_aloud",
+    "qid": "pte-ra-2571047c",
+    "index": 0,
+    "text": "While some bacteria cause disease, others are vital for digestion, agriculture, and waste management processes."
+  }
+]
