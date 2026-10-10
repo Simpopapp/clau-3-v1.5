@@ -39,7 +39,11 @@ off por padrão; dados em `src/data/plus/`; zero deps de runtime; app 100% local
   - [x] src/components/plus/PlusPhraseCard.tsx (expande só por tap; estado vazio honesto)
         integrado em Read Aloud, MCQ (mcq/mcq_multi/lst_mcq), Re-order, Read FIB, WFD
   - Gates ✅: vitest 223/223 · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) ·
-        preview pendente de verificação Playwright (fecha na Fase 4/5 junto com o pack)
+        preview ✅ (cards verificados: Read Aloud, MCQ single, Read FIB, WFD pós-correção;
+        localStorage vazio até o 1º clique, /practice aceita só ?q=, card WFD só no resultado)
+  - Correção de dados (2026-10-10): out-025↔026 trocados e ciclo 031→033→037→034→035→032
+        entre os out-*.json reescritos; out-029 regerado (traduções perdidas); merge refeito
+        com alinhamento verificado (3098/3098; edknot-rfib-01 agora com tradução correta).
 - [ ] Fase 3 (P1) — Áudio do pack (pronúncia)
   - [ ] src/lib/plus/plusAudio.ts (matriz campo × tipo; nunca duplica áudio nativo)
   - [ ] src/components/plus/PlusSpeakButton.tsx (Web Speech, rate = modelRate,
