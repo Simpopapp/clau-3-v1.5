@@ -30,14 +30,16 @@ off por padrão; dados em `src/data/plus/`; zero deps de runtime; app 100% local
         transcrição é gabarito e não pode vazar tradução antes da resposta
   - Gates ✅: vitest 210/210 · tsgo limpo · build/lint/preview pendentes de fechamento
     (Fase 5, junto com o pack)
-- [ ] Fase 2 (P1) — Tradução por frase (tipo 2)
-  - [ ] src/lib/plus/sentences.ts + phrases.ts (puros, testados)
-  - [ ] Pipeline: extract-sentences.mjs + generate-phrases.mjs → src/data/plus/phrases/
-        (cobertura inicial: read_aloud, reorder_paragraphs, mcq_single, mcq_multi,
-        read_fib, wfd)
-  - [ ] src/components/plus/PlusPhraseCard.tsx (expande só por tap; estado vazio
-        honesto quando sem dados)
-  - Gates: vitest · tsgo · build · lint · preview (sem auto-abertura em scroll)
+- [x] Fase 2 (P1) — Tradução por frase (tipo 2) ✅ (feita em 2026-10-10)
+  - [x] src/lib/plus/sentences.ts + phrases.ts (puros, testados em src/test/plus-phrases.test.ts)
+  - [x] Pipeline: extract-sentences.mjs (39 lotes in-NNN de 80) + tradução por subagentes
+        read-only (MÉTODO REVISADO, sem AI Gateway) + merge-phrases.mjs → src/data/plus/phrases/
+        (cobertura: read_aloud 195, reorder_paragraphs 57, mcq_single 106, mcq_multi 18,
+        read_fib 62, wfd 934 = 1.372 frases, 3.098 traduzidas, cobertura 100%)
+  - [x] src/components/plus/PlusPhraseCard.tsx (expande só por tap; estado vazio honesto)
+        integrado em Read Aloud, MCQ (mcq/mcq_multi/lst_mcq), Re-order, Read FIB, WFD
+  - Gates ✅: vitest 223/223 · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) ·
+        preview pendente de verificação Playwright (fecha na Fase 4/5 junto com o pack)
 - [ ] Fase 3 (P1) — Áudio do pack (pronúncia)
   - [ ] src/lib/plus/plusAudio.ts (matriz campo × tipo; nunca duplica áudio nativo)
   - [ ] src/components/plus/PlusSpeakButton.tsx (Web Speech, rate = modelRate,
